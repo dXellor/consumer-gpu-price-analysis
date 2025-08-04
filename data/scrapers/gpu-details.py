@@ -1,4 +1,4 @@
-import undetected_chromedriver as uc
+import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import random
@@ -14,13 +14,6 @@ proxy_index = 0
 proxy = proxy_list[proxy_index]
 
 base_url = 'https://www.techpowerup.com' 
-options = uc.ChromeOptions()
-options.add_argument("--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)")
-options.add_argument(f'--proxy-server={proxy}')
-prefs = {"profile.managed_default_content_settings.images": 2, "javascript.enabled": False}
-options.add_experimental_option("prefs", prefs)
-
-driver = uc.Chrome(headless=True)
 
 gpus_df = pd.read_csv(DETAILS_FILE, sep='|')
 for index, row in gpus_df.iterrows():
@@ -34,14 +27,13 @@ for index, row in gpus_df.iterrows():
         continue
 
     try:
-        driver.get(f"{base_url}{row['Product Link']}")
+        html = requests.get(f"{base_url}{row['Product Link']}", headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}, timeout=5, proxies={'http': proxy})
     except:
         with open('../proxies.txt', 'w', encoding='utf-8') as f:
             f.writelines(proxy_list[1:])
         print('PROXY HAS BEEN USED UP X')
         exit(-1)
 
-    html = driver.page_source
     soup = BeautifulSoup(html, 'html.parser')
 
     details = soup.select('div.sectioncontainer section div dl')
