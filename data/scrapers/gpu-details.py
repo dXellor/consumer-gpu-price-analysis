@@ -27,13 +27,14 @@ for index, row in gpus_df.iterrows():
         continue
 
     try:
-        html = requests.get(f"{base_url}{row['Product Link']}", headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}, timeout=5, proxies={'http': proxy})
+        response = requests.get(f"{base_url}{row['Product Link']}", headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}, timeout=5, proxies={'http': proxy})
     except:
         with open('../proxies.txt', 'w', encoding='utf-8') as f:
             f.writelines(proxy_list[1:])
         print('PROXY HAS BEEN USED UP X')
         exit(-1)
 
+    html = response.text
     soup = BeautifulSoup(html, 'html.parser')
 
     details = soup.select('div.sectioncontainer section div dl')
