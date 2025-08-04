@@ -18,7 +18,7 @@ base_url = 'https://www.techpowerup.com'
 gpus_df = pd.read_csv(DETAILS_FILE, sep='|')
 for index, row in gpus_df.iterrows():
     print(f'Processing index: {index}')
-    if(index%10 == 0 and made_changes):
+    if(index%6 == 0 and made_changes):
         print('Saving data')
         print(f'Column preview: {gpus_df.columns}')
         gpus_df.to_csv(DETAILS_FILE, sep='|', index=False)
@@ -52,4 +52,4 @@ for index, row in gpus_df.iterrows():
             gpus_df.at[index, spec_name] = spec_value
             made_changes = True
 
-    sleep(random.randint(5, 12))
+    sleep(random.randint(6, 17))
