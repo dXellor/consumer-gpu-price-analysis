@@ -212,46 +212,211 @@ Radeon HD 6370D IGP|/gpu-specs/radeon-hd-6370d-igp.c833|SuperSumo||TeraScale 2|T
 (Sumo)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||444 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|160.0|8.0|4.0|2.0|||1.776 GPixel/s|3.552 GTexel/s|142.1 GFLOPS|65 W|Motherboard Dependent|11.2 (11_0)|4.4|1.2||5.0|IGP||||||||
 Radeon HD 6380G IGP|/gpu-specs/radeon-hd-6380g-igp.c826|SuperSumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 14th, 2011|"TeraScale 2 IGP
 (Sumo Mobile)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||400 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|160.0|8.0|4.0|2.0|||1.600 GPixel/s|3.200 GTexel/s|128.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2||5.0|IGP||||||||
-Radeon HD 6390|/gpu-specs/radeon-hd-6390.c2068|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6410D IGP|/gpu-specs/radeon-hd-6410d-igp.c2410|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6430M|/gpu-specs/radeon-hd-6430m.c334|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6450|/gpu-specs/radeon-hd-6450.c402|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6450 OEM|/gpu-specs/radeon-hd-6450-oem.c1416|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6450A|/gpu-specs/radeon-hd-6450a.c1691|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6450M|/gpu-specs/radeon-hd-6450m.c333|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6470M|/gpu-specs/radeon-hd-6470m.c332|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6480G IGP|/gpu-specs/radeon-hd-6480g-igp.c2413|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6480G IGP|/gpu-specs/radeon-hd-6480g-igp.c827|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6490|/gpu-specs/radeon-hd-6490.c2475|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6490M|/gpu-specs/radeon-hd-6490m.c414|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6490M Mac Edition|/gpu-specs/radeon-hd-6490m-mac-edition.c2288|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6510|/gpu-specs/radeon-hd-6510.c2395|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6510|/gpu-specs/radeon-hd-6510.c2067|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6520G IGP|/gpu-specs/radeon-hd-6520g-igp.c829|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6530|/gpu-specs/radeon-hd-6530.c2361|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6530D IGP|/gpu-specs/radeon-hd-6530d-igp.c835|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6550A|/gpu-specs/radeon-hd-6550a.c1693|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6550D IGP|/gpu-specs/radeon-hd-6550d-igp.c836|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6570|/gpu-specs/radeon-hd-6570.c3152|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6570|/gpu-specs/radeon-hd-6570.c277|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6570 OEM|/gpu-specs/radeon-hd-6570-oem.c408|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6570M|/gpu-specs/radeon-hd-6570m.c2289|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6610M|/gpu-specs/radeon-hd-6610m.c1734|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6620G IGP|/gpu-specs/radeon-hd-6620g-igp.c830|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6625M|/gpu-specs/radeon-hd-6625m.c2207|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6630M|/gpu-specs/radeon-hd-6630m.c327|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6630M Mac Edition|/gpu-specs/radeon-hd-6630m-mac-edition.c2294|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6650A|/gpu-specs/radeon-hd-6650a.c1726|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6650M|/gpu-specs/radeon-hd-6650m.c326|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6670|/gpu-specs/radeon-hd-6670.c406|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6670A|/gpu-specs/radeon-hd-6670a.c1690|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6730M|/gpu-specs/radeon-hd-6730m.c325|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6750|/gpu-specs/radeon-hd-6750.c279|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6750M|/gpu-specs/radeon-hd-6750m.c324|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6750M Mac Edition|/gpu-specs/radeon-hd-6750m-mac-edition.c2248|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6770|/gpu-specs/radeon-hd-6770.c280|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6770M|/gpu-specs/radeon-hd-6770m.c323|||||||||||||||||||||||||||||||||||||||||||||||
-Radeon HD 6770M Mac Edition|/gpu-specs/radeon-hd-6770m-mac-edition.c2254|||||||||||||||||||||||||||||||||||||||||||||||
+Radeon HD 6390|/gpu-specs/radeon-hd-6390.c2068|Redwood|Redwood PRO2|TeraScale 2|TSMC|40 nm|627 million|6.0M / mm²|104 mm²|FCBGA-962|Jul 4th, 2011|"Northern Islands
+(HD 6300)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16||550 MHz|"500 MHz
+										
+					1000 Mbps effective"|1024 MB|DDR2|128 bit|16.00 GB/s|320|16|8|4|8 KB (per CU)|256 KB|4.400 GPixel/s|8.800 GTexel/s|352.0 GFLOPS|39 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"165 mm
+					6.5 inches"||200 W|None|C264|||
+Radeon HD 6410D IGP|/gpu-specs/radeon-hd-6410d-igp.c2410|SuperSumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 20th, 2011|"TeraScale 2 IGP
+(Sumo)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||444 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|160|8|4|2|||1.776 GPixel/s|3.552 GTexel/s|142.1 GFLOPS|65 W|Motherboard Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6430M|/gpu-specs/radeon-hd-6430m.c334|Seymour|"Seymour LP S3
+										
+(216-0809020)"|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631/962|Jan 4th, 2011|"Vancouver
+(HD 6400M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||480 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|64 bit|12.80 GB/s|160|8|4|2|8 KB (per CU)|128 KB|1.920 GPixel/s|3.840 GTexel/s|153.6 GFLOPS|unknown|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6450|/gpu-specs/radeon-hd-6450.c402|Caicos|Caicos PRO|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631|Apr 7th, 2011|"Northern Islands
+(HD 6400)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|14 in our database|625 MHz|"500 MHz
+										
+					1000 Mbps effective"|512 MB|GDDR3|64 bit|8.000 GB/s|160|8|4|2|8 KB (per CU)|128 KB|2.500 GPixel/s|5.000 GTexel/s|200.0 GFLOPS|18 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||200 W|None|109-C26037-00A||55 USD|
+Radeon HD 6450 OEM|/gpu-specs/radeon-hd-6450-oem.c1416|Caicos|Junbonator|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631|Feb 7th, 2011|"Northern Islands
+(HD 6400)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|14 in our database|625 MHz|"533 MHz
+										
+					1066 Mbps effective"|512 MB|GDDR3|64 bit|8.528 GB/s|160|8|4|2|8 KB (per CU)|128 KB|2.500 GPixel/s|5.000 GTexel/s|200.0 GFLOPS|18 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||200 W|None|C264|||
+Radeon HD 6450A|/gpu-specs/radeon-hd-6450a.c1691|Caicos||TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631|Apr 7th, 2011|"All-In-One
+(HD 6000)"|||End-of-life|MXM-A (3.0)||625 MHz|"533 MHz
+										
+					1066 Mbps effective"|512 MB|DDR3|64 bit|8.528 GB/s|160|8|4|2|8 KB (per CU)|128 KB|2.500 GPixel/s|5.000 GTexel/s|200.0 GFLOPS|25 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6450M|/gpu-specs/radeon-hd-6450m.c333|Seymour|"Seymour PRO S3
+										
+(216-0809024)"|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631/962|Jan 4th, 2011|"Vancouver
+(HD 6400M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||600 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|64 bit|12.80 GB/s|160|8|4|2|8 KB (per CU)|128 KB|2.400 GPixel/s|4.800 GTexel/s|192.0 GFLOPS|unknown|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6470M|/gpu-specs/radeon-hd-6470m.c332|Seymour|"Seymour XT M2
+										
+(216-0809000)"|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631/962|Jan 4th, 2011|"Vancouver
+(HD 6400M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||700 MHz|"800 MHz
+										
+					1600 Mbps effective"|512 MB|DDR3|64 bit|12.80 GB/s|160|8|4|2|8 KB (per CU)|128 KB|2.800 GPixel/s|5.600 GTexel/s|224.0 GFLOPS|25 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6480G IGP|/gpu-specs/radeon-hd-6480g-igp.c2413|SuperSumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 14th, 2011|"TeraScale 2 IGP
+(Sumo Mobile)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||593 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|160|8|4|2|||2.372 GPixel/s|4.744 GTexel/s|189.8 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6480G IGP|/gpu-specs/radeon-hd-6480g-igp.c827|Sumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 14th, 2011|"TeraScale 2 IGP
+(Sumo Mobile)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||444 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|240|12|4|3|||1.776 GPixel/s|5.328 GTexel/s|213.1 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6490|/gpu-specs/radeon-hd-6490.c2475|Redwood|Redwood LE|TeraScale 2|TSMC|40 nm|627 million|6.0M / mm²|104 mm²|FCBGA-962|Jul 4th, 2011|"Northern Islands
+(HD 6400)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16||550 MHz|"500 MHz
+										
+					1000 Mbps effective"|1024 MB|DDR2|128 bit|16.00 GB/s|320|16|8|4|8 KB (per CU)|256 KB|4.400 GPixel/s|8.800 GTexel/s|352.0 GFLOPS|39 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"165 mm
+					6.5 inches"||200 W|None||||
+Radeon HD 6490M|/gpu-specs/radeon-hd-6490m.c414|Seymour|"Seymour XTX S3
+										
+(216-0809024)"|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631/962|Jan 4th, 2011|"Vancouver
+(HD 6400M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||800 MHz|"800 MHz
+										
+					3.2 Gbps effective"|512 MB|GDDR5|64 bit|25.60 GB/s|160|8|4|2|8 KB (per CU)|128 KB|3.200 GPixel/s|6.400 GTexel/s|256.0 GFLOPS|unknown|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6490M Mac Edition|/gpu-specs/radeon-hd-6490m-mac-edition.c2288|Seymour|"Seymour XTX M2
+										
+(216-0809000)"|TeraScale 2|TSMC|40 nm|370 million|5.5M / mm²|67 mm²|FCBGA-631/962|May 2nd, 2011|"Vancouver
+(HD 6400M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||750 MHz|"794 MHz
+										
+					3.2 Gbps effective"|256 MB|GDDR5|64 bit|25.41 GB/s|160|8|4|2|8 KB (per CU)|128 KB|3.000 GPixel/s|6.000 GTexel/s|240.0 GFLOPS|unknown|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6510|/gpu-specs/radeon-hd-6510.c2395|Turks|Turks LE|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|May 14th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16||650 MHz|"667 MHz
+										
+					1334 Mbps effective"|1024 MB|GDDR3|128 bit|21.34 GB/s|320|16|8|4|8 KB (per CU)|256 KB|5.200 GPixel/s|10.40 GTexel/s|416.0 GFLOPS|39 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"165 mm
+					6.5 inches"||200 W|||||
+Radeon HD 6510|/gpu-specs/radeon-hd-6510.c2067|Redwood|"Redwood PRO
+										
+(215-0757004)"|TeraScale 2|TSMC|40 nm|627 million|6.0M / mm²|104 mm²|FCBGA-962|May 14th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16||650 MHz|"500 MHz
+										
+					1000 Mbps effective"|1024 MB|GDDR3|128 bit|16.00 GB/s|400|20|8|5|8 KB (per CU)|256 KB|5.200 GPixel/s|13.00 GTexel/s|520.0 GFLOPS|39 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"165 mm
+					6.5 inches"||200 W|None|C021|||
+Radeon HD 6520G IGP|/gpu-specs/radeon-hd-6520g-igp.c829|Sumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Dec 7th, 2011|"TeraScale 2 IGP
+(Sumo Mobile)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||400 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|320|16|8|4|||3.200 GPixel/s|6.400 GTexel/s|256.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6530|/gpu-specs/radeon-hd-6530.c2361|Redwood|"Redwood PRO
+										
+(215-0757004)"|TeraScale 2|TSMC|40 nm|627 million|6.0M / mm²|104 mm²|FCBGA-962|May 14th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16||650 MHz|"600 MHz
+										
+					1200 Mbps effective"|1024 MB|GDDR3|128 bit|19.20 GB/s|400|20|8|5|8 KB (per CU)|256 KB|5.200 GPixel/s|13.00 GTexel/s|520.0 GFLOPS|39 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"165 mm
+					6.5 inches"||200 W|||||
+Radeon HD 6530D IGP|/gpu-specs/radeon-hd-6530d-igp.c835|Sumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 20th, 2011|"TeraScale 2 IGP
+(Sumo)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||444 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|320|16|8|4|||3.552 GPixel/s|7.104 GTexel/s|284.2 GFLOPS|65 W|Motherboard Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6550A|/gpu-specs/radeon-hd-6550a.c1693|Pinewood|Pinewood PRO|TeraScale 2|TSMC|40 nm|627 million|6.0M / mm²|104 mm²|FCBGA-962|Feb 7th, 2011|"All-In-One
+(HD 6000)"|||End-of-life|MXM-A (3.0)||550 MHz|"800 MHz
+										
+					1600 Mbps effective"|2 GB|GDDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.400 GPixel/s|13.20 GTexel/s|528.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6550D IGP|/gpu-specs/radeon-hd-6550d-igp.c836|Sumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Jun 20th, 2011|"TeraScale 2 IGP
+(Sumo)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||600 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|400|20|8|5|||4.800 GPixel/s|12.00 GTexel/s|480.0 GFLOPS|65 W|Motherboard Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6570|/gpu-specs/radeon-hd-6570.c3152|Thames|"Thames M2 XTX
+										
+(216-0833132)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-631/962|Feb 7th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|7 in our database|650 MHz|"500 MHz
+										
+					1000 Mbps effective"|1024 MB|GDDR3|128 bit|16.00 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.200 GPixel/s|15.60 GTexel/s|624.0 GFLOPS|44 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||200 W|None|C239|||
+Radeon HD 6570|/gpu-specs/radeon-hd-6570.c277|Turks|"Turks PRO
+										
+(215-0803002)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|Apr 19th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|7 in our database|650 MHz|"1000 MHz
+										
+					4 Gbps effective"|2 GB|GDDR5|128 bit|64.00 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.200 GPixel/s|15.60 GTexel/s|624.0 GFLOPS|60 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||250 W|None|C331||79 USD|
+Radeon HD 6570 OEM|/gpu-specs/radeon-hd-6570-oem.c408|Turks|Turks PRO-G|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|Feb 7th, 2011|"Northern Islands
+(HD 6500)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|7 in our database|650 MHz|"900 MHz
+										
+					1800 Mbps effective"|1024 MB|GDDR3|128 bit|28.80 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.200 GPixel/s|15.60 GTexel/s|624.0 GFLOPS|44 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||200 W|None|C239|||
+Radeon HD 6570M|/gpu-specs/radeon-hd-6570m.c2289|Whistler||TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Apr 25th, 2011|"Vancouver
+(HD 6500M)"|Manhattan|London|End-of-life|MXM-A (3.0)||600 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|GDDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.800 GPixel/s|14.40 GTexel/s|576.0 GFLOPS|30 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6610M|/gpu-specs/radeon-hd-6610m.c1734|Whistler|"Whistler LP
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6600M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||450 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|128 bit|25.60 GB/s|400|20|8|5|8 KB (per CU)|256 KB|3.600 GPixel/s|9.000 GTexel/s|360.0 GFLOPS|26 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6620G IGP|/gpu-specs/radeon-hd-6620g-igp.c830|Sumo||TeraScale 2|TSMC|32 nm|1,178 million|5.2M / mm²|227 mm²|µPGA-722/905|Dec 7th, 2011|"TeraScale 2 IGP
+(Sumo Mobile)"|TeraScale IGP|TeraScale 3 IGP|End-of-life|IGP||444 MHz|System Shared|System Shared|System Shared|System Shared|System Dependent|400|20|8|5|||3.552 GPixel/s|8.880 GTexel/s|355.2 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|IGP||||||||
+Radeon HD 6625M|/gpu-specs/radeon-hd-6625m.c2207|Whistler|"Whistler LP
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6600M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||450 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|128 bit|25.60 GB/s|480|20|8|5|8 KB (per CU)|256 KB|3.600 GPixel/s|9.000 GTexel/s|432.0 GFLOPS|26 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6630M|/gpu-specs/radeon-hd-6630m.c327|Whistler|"Whistler LP
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6600M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||500 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.000 GPixel/s|12.00 GTexel/s|480.0 GFLOPS|26 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6630M Mac Edition|/gpu-specs/radeon-hd-6630m-mac-edition.c2294|Whistler|"Whistler LP
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6600M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||500 MHz|"600 MHz
+										
+					2.4 Gbps effective"|256 MB|GDDR5|64 bit|19.20 GB/s|480|24|8|6|||4.000 GPixel/s|12.00 GTexel/s|480.0 GFLOPS|26 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6650A|/gpu-specs/radeon-hd-6650a.c1726|Onega||TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|Apr 19th, 2011|"All-In-One
+(HD 6000)"|||End-of-life|MXM-A (3.0)||600 MHz|"900 MHz
+										
+					1800 Mbps effective"|1024 MB|DDR3|128 bit|28.80 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.800 GPixel/s|14.40 GTexel/s|576.0 GFLOPS|45 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6650M|/gpu-specs/radeon-hd-6650m.c326|Whistler|"Whistler LE
+										
+(216-0810028)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6600M)"|Manhattan|London|End-of-life|PCIe 2.0 x16||600 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|DDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.800 GPixel/s|14.40 GTexel/s|576.0 GFLOPS|unknown|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|||||||||
+Radeon HD 6670|/gpu-specs/radeon-hd-6670.c406|Turks|"Turks XT
+										
+(215-0803000)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|Apr 19th, 2011|"Northern Islands
+(HD 6600)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|35 in our database|800 MHz|"1000 MHz
+										
+					4 Gbps effective"|1024 MB|GDDR5|128 bit|64.00 GB/s|480|24|8|6|8 KB (per CU)|256 KB|6.400 GPixel/s|19.20 GTexel/s|768.0 GFLOPS|66 W|1x DVI1x HDMI 1.3a1x VGA|11.2 (11_0)|4.4|1.2|N/A|5.0|Single-slot|"168 mm
+					6.6 inches"||250 W|None|109-C33437-00||99 USD|
+Radeon HD 6670A|/gpu-specs/radeon-hd-6670a.c1690|Turks|"Turks XT
+										
+(215-0803000)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962|Apr 19th, 2011|"All-In-One
+(HD 6000)"|||End-of-life|MXM-A (3.0)||600 MHz|"1000 MHz
+										
+					4 Gbps effective"|1024 MB|GDDR5|128 bit|64.00 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.800 GPixel/s|14.40 GTexel/s|576.0 GFLOPS|45 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6730M|/gpu-specs/radeon-hd-6730m.c325|Whistler|"Whistler LE
+										
+(216-0810028)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6700M)"|Manhattan|London|End-of-life|MXM-A (3.0)||725 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|GDDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.800 GPixel/s|17.40 GTexel/s|696.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6750|/gpu-specs/radeon-hd-6750.c279|Juniper|"Juniper LE
+										
+(215-0754009)"|TeraScale 2|TSMC|40 nm|1,040 million|6.3M / mm²|166 mm²|FCBGA-962|Jan 21st, 2011|"Northern Islands
+(HD 6700)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|4 in our database|700 MHz|"1150 MHz
+										
+					4.6 Gbps effective"|1024 MB|GDDR5|128 bit|73.60 GB/s|720|36|16|9|8 KB (per CU)|256 KB|11.20 GPixel/s|25.20 GTexel/s|1,008.0 GFLOPS|86 W|2x DVI1x HDMI 1.3a2x mini-DisplayPort 1.1|11.2 (11_0)|4.4|1.2|N/A|5.0|Dual-slot|"170 mm
+					6.7 inches"||250 W|1x 6-pin|C012|||
+Radeon HD 6750M|/gpu-specs/radeon-hd-6750m.c324|Whistler|"Whistler PRO
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6700M)"|Manhattan|London|End-of-life|MXM-A (3.0)||600 MHz|"800 MHz
+										
+					1600 Mbps effective"|1024 MB|GDDR3|128 bit|25.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.800 GPixel/s|14.40 GTexel/s|576.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6750M Mac Edition|/gpu-specs/radeon-hd-6750m-mac-edition.c2248|Whistler|"Whistler PRO
+										
+(216-0810005)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Apr 18th, 2011|"Vancouver
+(HD 6700M)"|Manhattan|London|End-of-life|MXM-A (3.0)||598 MHz|"794 MHz
+										
+					3.2 Gbps effective"|512 MB|GDDR5|128 bit|50.82 GB/s|480|24|8|6|8 KB (per CU)|256 KB|4.784 GPixel/s|14.35 GTexel/s|574.1 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6770|/gpu-specs/radeon-hd-6770.c280|Juniper|"Juniper XT
+										
+(215-0754013)"|TeraScale 2|TSMC|40 nm|1,040 million|6.3M / mm²|166 mm²|FCBGA-962|Jan 21st, 2011|"Northern Islands
+(HD 6700)"|Evergreen|Southern Islands|End-of-life|PCIe 2.0 x16|35 in our database|850 MHz|"1200 MHz
+										
+					4.8 Gbps effective"|1024 MB|GDDR5|128 bit|76.80 GB/s|800|40|16|10|8 KB (per CU)|256 KB|13.60 GPixel/s|34.00 GTexel/s|1,360.0 GFLOPS|108 W|2x DVI1x HDMI 1.3a2x mini-DisplayPort 1.1|11.2 (11_0)|4.4|1.2|N/A|5.0|Dual-slot|"198 mm
+					7.8 inches"||300 W|1x 6-pin|C010||129 USD|
+Radeon HD 6770M|/gpu-specs/radeon-hd-6770m.c323|Whistler|"Whistler XT
+										
+(216-0810001)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 4th, 2011|"Vancouver
+(HD 6700M)"|Manhattan|London|End-of-life|MXM-A (3.0)||725 MHz|"900 MHz
+										
+					3.6 Gbps effective"|1024 MB|GDDR5|128 bit|57.60 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.800 GPixel/s|17.40 GTexel/s|696.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
+Radeon HD 6770M Mac Edition|/gpu-specs/radeon-hd-6770m-mac-edition.c2254|Whistler|"Whistler XT Mac
+										
+(216-0810084)"|TeraScale 2|TSMC|40 nm|716 million|6.1M / mm²|118 mm²|FCBGA-962/1336|Jan 28th, 2011|"Vancouver
+(HD 6700M)"|Manhattan|London|End-of-life|MXM-A (3.0)||675 MHz|"794 MHz
+										
+					3.2 Gbps effective"|1024 MB|GDDR5|128 bit|50.82 GB/s|480|24|8|6|8 KB (per CU)|256 KB|5.400 GPixel/s|16.20 GTexel/s|648.0 GFLOPS|35 W|Portable Device Dependent|11.2 (11_0)|4.4|1.2|N/A|5.0|MXM Module||||||||
 Radeon HD 6790|/gpu-specs/radeon-hd-6790.c283|||||||||||||||||||||||||||||||||||||||||||||||
 Radeon HD 6830M|/gpu-specs/radeon-hd-6830m.c322|||||||||||||||||||||||||||||||||||||||||||||||
 Radeon HD 6850 X2|/gpu-specs/radeon-hd-6850-x2.c1698|||||||||||||||||||||||||||||||||||||||||||||||
