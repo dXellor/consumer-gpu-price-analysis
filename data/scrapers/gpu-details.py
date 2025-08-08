@@ -53,3 +53,7 @@ for index, row in gpus_df.iterrows():
             made_changes = True
 
     sleep(random.randint(6, 17))
+
+print('Saving data FINAL')
+print(f'Column preview: {gpus_df.columns}')
+gpus_df.to_csv(DETAILS_FILE, sep='|', index=False)

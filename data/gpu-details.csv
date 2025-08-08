@@ -7730,309 +7730,619 @@ GeForce RTX 3090 Ti|/gpu-specs/geforce-rtx-3090-ti.c3829|GA102|GA102-350-A1|Ampe
 					2.4 inches"|1560 MHz|1860 MHz|||40.00 TFLOPS (1:1)|||Mar 29th, 2022||||||||84.0|||||||||||||||||||84.0|8.6||||||||336.0|||||
 GeForce RTX 4080|/gpu-specs/geforce-rtx-4080.c3888|AD103|AD103-300-A1|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Sep 20th, 2022|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|50 in our database||"1400 MHz
 										
-					22.4 Gbps effective"|16 GB|GDDR6X|256 bit|716.8 GB/s|9728|304|112||128 KB (per SM)|64 MB|280.6 GPixel/s|761.5 GTexel/s|48.74 TFLOPS|320 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"310 mm
+					22.4 Gbps effective"|16 GB|GDDR6X|256 bit|716.8 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|280.6 GPixel/s|761.5 GTexel/s|48.74 TFLOPS|320 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"310 mm
 					12.2 inches"|"140 mm
 					5.5 inches"|700 W|1x 16-pin|PG139 SKU 360|761.5 GFLOPS (1:64)|1,199 USD|"61 mm
 					2.4 inches"|2205 MHz|2505 MHz|||48.74 TFLOPS (1:1)|||Nov 16th, 2022||"Amazon
 						/
-						Newegg"||||||76|||||||||||||||||||76|8.9||||||||304|||||
+						Newegg"||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
 GeForce RTX 4080 12 GB|/gpu-specs/geforce-rtx-4080-12-gb.c3932|AD104|AD104-400-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|50 in our database||"1313 MHz
 										
-					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|7680|240|80||128 KB (per SM)|48 MB|208.8 GPixel/s|626.4 GTexel/s|40.09 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|7680.0|240.0|80.0||128 KB (per SM)|48 MB|208.8 GPixel/s|626.4 GTexel/s|40.09 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"112 mm
-					4.4 inches"|600 W|1x 16-pin|PG141 SKU 331|626.4 GFLOPS (1:64)|899 USD||2310 MHz|2610 MHz|||40.09 TFLOPS (1:1)|||Canceled||||||||60|||||||||||||||||||60|8.9||||||||240|||||
+					4.4 inches"|600 W|1x 16-pin|PG141 SKU 331|626.4 GFLOPS (1:64)|899 USD||2310 MHz|2610 MHz|||40.09 TFLOPS (1:1)|||Canceled||||||||60.0|||||||||||||||||||60.0|8.9||||||||240.0|||||
 GeForce RTX 4090|/gpu-specs/geforce-rtx-4090.c3889|AD102|AD102-300-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Sep 20th, 2022|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|76 in our database||"1313 MHz
 										
-					21 Gbps effective"|24 GB|GDDR6X|384 bit|1.01 TB/s|16384|512|176||128 KB (per SM)|72 MB|443.5 GPixel/s|1,290.2 GTexel/s|82.58 TFLOPS|450 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"304 mm
+					21 Gbps effective"|24 GB|GDDR6X|384 bit|1.01 TB/s|16384.0|512.0|176.0||128 KB (per SM)|72 MB|443.5 GPixel/s|1,290.2 GTexel/s|82.58 TFLOPS|450 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"304 mm
 					12 inches"|"137 mm
 					5.4 inches"|850 W|1x 16-pin|PG139 SKU 330|1,290.2 GFLOPS (1:64)|1,599 USD|"61 mm
 					2.4 inches"|2235 MHz|2520 MHz|||82.58 TFLOPS (1:1)|||Oct 12th, 2022||"Amazon
 						/
-						Newegg"||||||128|||||||||||||||||||128|8.9||||||||512|||||
+						Newegg"||||||128.0|||||||||||||||||||128.0|8.9||||||||512.0|||||
 H100 PCIe 80 GB|/gpu-specs/h100-pcie-80-gb.c3899|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Oct 2022|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1593 MHz
 										
-					3.2 Gbps effective"|80 GB|HBM2e|5120 bit|2.04 TB/s|14592|456|24||256 KB (per SM)|50 MB|42.12 GPixel/s|800.3 GTexel/s|51.22 TFLOPS|350 W|No outputs|N/A|N/A|3.0|N/A|N/A|Dual-slot|"268 mm
+					3.2 Gbps effective"|80 GB|HBM2e|5120 bit|2.04 TB/s|14592.0|456.0|24.0||256 KB (per SM)|50 MB|42.12 GPixel/s|800.3 GTexel/s|51.22 TFLOPS|350 W|No outputs|||3.0|||Dual-slot|"268 mm
 					10.6 inches"|"111 mm
-					4.4 inches"|750 W|1x 16-pin|P1010 SKU 200|25.61 TFLOPS (1:2)|||1095 MHz|1755 MHz|||204.9 TFLOPS (4:1)||||||||||||||||||||||||||||||114|9.0||||||||456|||||
+					4.4 inches"|750 W|1x 16-pin|P1010 SKU 200|25.61 TFLOPS (1:2)|||1095 MHz|1755 MHz|||204.9 TFLOPS (4:1)||||||||||||||||||||||||||||||114.0|9.0||||||||456.0|||||
 H100 SXM5 80 GB|/gpu-specs/h100-sxm5-80-gb.c3900|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Oct 2022|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
 										
-					5.3 Gbps effective"|80 GB|HBM3|5120 bit|3.36 TB/s|16896|528|24||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|N/A|N/A|3.0|N/A|N/A|SXM Module|||1100 W|None|PG520|33.45 TFLOPS (1:2)|||1590 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132|9.0||||||||528|||||
+					5.3 Gbps effective"|80 GB|HBM3|5120 bit|3.36 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W||PG520|33.45 TFLOPS (1:2)|||1590 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
 L40|/gpu-specs/l40.c3959|AD102|AD102-895-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Oct 13th, 2022|"Server Ada
 (Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|18176|568|192||128 KB (per SM)|96 MB|478.1 GPixel/s|1,414.3 GTexel/s|90.52 TFLOPS|300 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|18176.0|568.0|192.0||128 KB (per SM)|96 MB|478.1 GPixel/s|1,414.3 GTexel/s|90.52 TFLOPS|300 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"111 mm
-					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,414.3 GFLOPS (1:64)|||735 MHz|2490 MHz|||90.52 TFLOPS (1:1)|||2022||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,414.3 GFLOPS (1:64)|||735 MHz|2490 MHz|||90.52 TFLOPS (1:1)|||2022||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 L40 CNX|/gpu-specs/l40-cnx.c3961|AD102|AD102-???-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Oct 13th, 2022|"Server Ada
 (Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|24 GB|GDDR6|384 bit|864.0 GB/s|18176|568|192||128 KB (per SM)|48 MB|475.2 GPixel/s|1,405.8 GTexel/s|89.97 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					18 Gbps effective"|24 GB|GDDR6|384 bit|864.0 GB/s|18176.0|568.0|192.0||128 KB (per SM)|48 MB|475.2 GPixel/s|1,405.8 GTexel/s|89.97 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"111 mm
-					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,405.8 GFLOPS (1:64)|||1005 MHz|2475 MHz|||89.97 TFLOPS (1:1)|||2022||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,405.8 GFLOPS (1:64)|||1005 MHz|2475 MHz|||89.97 TFLOPS (1:1)|||2022||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 L40G|/gpu-specs/l40g.c3960|AD102|AD102-???-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Oct 13th, 2022|"Server Ada
 (Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|24 GB|GDDR6|384 bit|864.0 GB/s|18176|568|192||128 KB (per SM)|48 MB|475.2 GPixel/s|1,405.8 GTexel/s|89.97 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					18 Gbps effective"|24 GB|GDDR6|384 bit|864.0 GB/s|18176.0|568.0|192.0||128 KB (per SM)|48 MB|475.2 GPixel/s|1,405.8 GTexel/s|89.97 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"111 mm
-					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,405.8 GFLOPS (1:64)|||1005 MHz|2475 MHz|||89.97 TFLOPS (1:1)|||2022||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,405.8 GFLOPS (1:64)|||1005 MHz|2475 MHz|||89.97 TFLOPS (1:1)|||2022||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 L40S|/gpu-specs/l40s.c4173|AD102|AD102-???-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Oct 13th, 2022|"Server Ada
 (Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|18176|568|192||128 KB (per SM)|48 MB|483.8 GPixel/s|1,431.4 GTexel/s|91.61 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|18176.0|568.0|192.0||128 KB (per SM)|48 MB|483.8 GPixel/s|1,431.4 GTexel/s|91.61 TFLOPS|300 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"111 mm
-					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,431.4 GFLOPS (1:64)|||1110 MHz|2520 MHz|||91.61 TFLOPS (1:1)|||2022||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					4.4 inches"|700 W|1x 16-pin|PG133 SKU 250|1,431.4 GFLOPS (1:64)|||1110 MHz|2520 MHz|||91.61 TFLOPS (1:1)|||2022||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 RTX 6000 Ada Generation|/gpu-specs/rtx-6000-ada-generation.c3933|AD102|AD102|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Dec 3rd, 2022|"Workstation Ada
 (x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"2500 MHz
 										
-					20 Gbps effective"|48 GB|GDDR6|384 bit|960.0 GB/s|18176|568|192||128 KB (per SM)|96 MB|481.0 GPixel/s|1,422.8 GTexel/s|91.06 TFLOPS|300 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					20 Gbps effective"|48 GB|GDDR6|384 bit|960.0 GB/s|18176.0|568.0|192.0||128 KB (per SM)|96 MB|481.0 GPixel/s|1,422.8 GTexel/s|91.06 TFLOPS|300 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"112 mm
-					4.4 inches"|700 W|1x 16-pin||1,422.8 GFLOPS (1:64)|6,799 USD||915 MHz|2505 MHz|||91.06 TFLOPS (1:1)|||Jan 20th, 2023||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					4.4 inches"|700 W|1x 16-pin||1,422.8 GFLOPS (1:64)|6,799 USD||915 MHz|2505 MHz|||91.06 TFLOPS (1:1)|||Jan 20th, 2023||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 RTX A1000 Embedded|/gpu-specs/rtx-a1000-embedded.c3895|GA107S||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²||Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1750 MHz
 										
-					14 Gbps effective"|4 GB|GDDR6|128 bit|224.0 GB/s|2048|64|32||128 KB (per SM)|2 MB|36.48 GPixel/s|72.96 GTexel/s|4.669 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||None||72.96 GFLOPS (1:64)|||630 MHz|1140 MHz|||4.669 TFLOPS (1:1)|||||||||||16|||||||||||||||||||16|8.6||||||||64|||||
+					14 Gbps effective"|4 GB|GDDR6|128 bit|224.0 GB/s|2048.0|64.0|32.0||128 KB (per SM)|2 MB|36.48 GPixel/s|72.96 GTexel/s|4.669 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||||72.96 GFLOPS (1:64)|||630 MHz|1140 MHz|||4.669 TFLOPS (1:1)|||||||||||16.0|||||||||||||||||||16.0|8.6||||||||64.0|||||
 RTX A1000 Mobile|/gpu-specs/rtx-a1000-mobile.c3920|GA107||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1375 MHz
 										
-					11 Gbps effective"|4 GB|GDDR6|128 bit|176.0 GB/s|2048|64|32||128 KB (per SM)|2 MB|36.48 GPixel/s|72.96 GTexel/s|4.669 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None|E4736 SKU 10|72.96 GFLOPS (1:64)|||630 MHz|1140 MHz|||4.669 TFLOPS (1:1)|||||||||||16|||||||||||||||||||16|8.6||||||||64|||||
+					11 Gbps effective"|4 GB|GDDR6|128 bit|176.0 GB/s|2048.0|64.0|32.0||128 KB (per SM)|2 MB|36.48 GPixel/s|72.96 GTexel/s|4.669 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|||||E4736 SKU 10|72.96 GFLOPS (1:64)|||630 MHz|1140 MHz|||4.669 TFLOPS (1:1)|||||||||||16.0|||||||||||||||||||16.0|8.6||||||||64.0|||||
 RTX A1000 Mobile 6 GB|/gpu-specs/rtx-a1000-mobile-6-gb.c4137|GA107||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1375 MHz
 										
-					11 Gbps effective"|6 GB|GDDR6|96 bit|132.0 GB/s|2560|80|32||128 KB (per SM)|2 MB|36.48 GPixel/s|91.20 GTexel/s|5.837 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None|E4736 SKU 10|91.20 GFLOPS (1:64)|||652 MHz|1140 MHz|||5.837 TFLOPS (1:1)|||||||||||20|||||||||||||||||||20|8.6||||||||80|||||
+					11 Gbps effective"|6 GB|GDDR6|96 bit|132.0 GB/s|2560.0|80.0|32.0||128 KB (per SM)|2 MB|36.48 GPixel/s|91.20 GTexel/s|5.837 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|||||E4736 SKU 10|91.20 GFLOPS (1:64)|||652 MHz|1140 MHz|||5.837 TFLOPS (1:1)|||||||||||20.0|||||||||||||||||||20.0|8.6||||||||80.0|||||
 RTX A2000 Embedded|/gpu-specs/rtx-a2000-embedded.c3861|GA107|"GA107-980-A1
 										
 (EN20-P3-A1)"|Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1500 MHz
 										
-					12 Gbps effective"|4 GB|GDDR6|128 bit|192.0 GB/s|2560|80|32||128 KB (per SM)|2 MB|37.66 GPixel/s|94.16 GTexel/s|6.026 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||None||94.16 GFLOPS (1:64)|||607 MHz|1177 MHz|||6.026 TFLOPS (1:1)|||||||||||20|||||||||||||||||||20|8.6||||||||80|||||
+					12 Gbps effective"|4 GB|GDDR6|128 bit|192.0 GB/s|2560.0|80.0|32.0||128 KB (per SM)|2 MB|37.66 GPixel/s|94.16 GTexel/s|6.026 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||||94.16 GFLOPS (1:64)|||607 MHz|1177 MHz|||6.026 TFLOPS (1:1)|||||||||||20.0|||||||||||||||||||20.0|8.6||||||||80.0|||||
 RTX A3000 Mobile 12 GB|/gpu-specs/rtx-a3000-mobile-12-gb.c3903|GA104||Ampere|Samsung|8 nm|17,400 million|44.4M / mm²|392 mm²|BGA-2713|Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"1750 MHz
 										
-					14 Gbps effective"|12 GB|GDDR6|192 bit|336.0 GB/s|4096|128|64||128 KB (per SM)|4 MB|92.16 GPixel/s|184.3 GTexel/s|11.80 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|||||None|E4735 SKU 10|184.3 GFLOPS (1:64)|||855 MHz|1440 MHz|||11.80 TFLOPS (1:1)|||||||||||32|||||||||||||||||||32|8.6||||||||128|||||
+					14 Gbps effective"|12 GB|GDDR6|192 bit|336.0 GB/s|4096.0|128.0|64.0||128 KB (per SM)|4 MB|92.16 GPixel/s|184.3 GTexel/s|11.80 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||||||E4735 SKU 10|184.3 GFLOPS (1:64)|||855 MHz|1440 MHz|||11.80 TFLOPS (1:1)|||||||||||32.0|||||||||||||||||||32.0|8.6||||||||128.0|||||
 RTX A4500 Embedded|/gpu-specs/rtx-a4500-embedded.c3893|GA104||Ampere|Samsung|8 nm|17,400 million|44.4M / mm²|392 mm²|BGA-2713|Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"1500 MHz
 										
-					12 Gbps effective"|16 GB|GDDR6|256 bit|384.0 GB/s|5888|184|96||128 KB (per SM)|4 MB|116.6 GPixel/s|223.6 GTexel/s|14.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||None||223.6 GFLOPS (1:64)|||510 MHz|1215 MHz|||14.31 TFLOPS (1:1)|||||||||||46|||||||||||||||||||46|8.6||||||||184|||||
+					12 Gbps effective"|16 GB|GDDR6|256 bit|384.0 GB/s|5888.0|184.0|96.0||128 KB (per SM)|4 MB|116.6 GPixel/s|223.6 GTexel/s|14.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||||223.6 GFLOPS (1:64)|||510 MHz|1215 MHz|||14.31 TFLOPS (1:1)|||||||||||46.0|||||||||||||||||||46.0|8.6||||||||184.0|||||
 RTX A4500 Max-Q|/gpu-specs/rtx-a4500-max-q.c4009|GA104||Ampere|Samsung|8 nm|17,400 million|44.4M / mm²|392 mm²|BGA-2713|Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"1750 MHz
 										
-					14 Gbps effective"|16 GB|GDDR6|256 bit|448.0 GB/s|5888|184|96||128 KB (per SM)|4 MB|116.6 GPixel/s|223.6 GTexel/s|14.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|||||None|E4735 SKU 10|223.6 GFLOPS (1:64)|||510 MHz|1215 MHz|||14.31 TFLOPS (1:1)|||||||||||46|||||||||||||||||||46|8.6||||||||184|||||
+					14 Gbps effective"|16 GB|GDDR6|256 bit|448.0 GB/s|5888.0|184.0|96.0||128 KB (per SM)|4 MB|116.6 GPixel/s|223.6 GTexel/s|14.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||||||E4735 SKU 10|223.6 GFLOPS (1:64)|||510 MHz|1215 MHz|||14.31 TFLOPS (1:1)|||||||||||46.0|||||||||||||||||||46.0|8.6||||||||184.0|||||
 RTX A4500 Mobile|/gpu-specs/rtx-a4500-mobile.c3851|GA104||Ampere|Samsung|8 nm|17,400 million|44.4M / mm²|392 mm²|BGA-2713|Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"2000 MHz
 										
-					16 Gbps effective"|16 GB|GDDR6|256 bit|512.0 GB/s|5888|184|96||128 KB (per SM)|4 MB|144.0 GPixel/s|276.0 GTexel/s|17.66 TFLOPS|140 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|||||None|E4735 SKU 10|276.0 GFLOPS (1:64)|||930 MHz|1500 MHz|||17.66 TFLOPS (1:1)|||||||||||46|||||||||||||||||||46|8.6||||||||184|||||
+					16 Gbps effective"|16 GB|GDDR6|256 bit|512.0 GB/s|5888.0|184.0|96.0||128 KB (per SM)|4 MB|144.0 GPixel/s|276.0 GTexel/s|17.66 TFLOPS|140 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||||||E4735 SKU 10|276.0 GFLOPS (1:64)|||930 MHz|1500 MHz|||17.66 TFLOPS (1:1)|||||||||||46.0|||||||||||||||||||46.0|8.6||||||||184.0|||||
 RTX A500 Embedded|/gpu-specs/rtx-a500-embedded.c3896|GA107S||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²||Mar 30th, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1500 MHz
 										
-					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|2048|64|32||128 KB (per SM)|2 MB|42.72 GPixel/s|85.44 GTexel/s|5.468 TFLOPS|20 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||None||85.44 GFLOPS (1:64)|||435 MHz|1335 MHz|||5.468 TFLOPS (1:1)|||||||||||16|||||||||||||||||||16|8.6||||||||64|||||
+					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|2048.0|64.0|32.0||128 KB (per SM)|2 MB|42.72 GPixel/s|85.44 GTexel/s|5.468 TFLOPS|20 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|MXM Module||||||85.44 GFLOPS (1:64)|||435 MHz|1335 MHz|||5.468 TFLOPS (1:1)|||||||||||16.0|||||||||||||||||||16.0|8.6||||||||64.0|||||
 RTX A500 Mobile|/gpu-specs/rtx-a500-mobile.c3939|GA107S||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²||Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x8|||"1500 MHz
 										
-					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|2048|64|32||128 KB (per SM)|2 MB|49.18 GPixel/s|98.37 GTexel/s|6.296 TFLOPS|30 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None|E4728 SKU 10|98.37 GFLOPS (1:64)|||832 MHz|1537 MHz|||6.296 TFLOPS (1:1)|||||||||||16|||||||||||||||||||16|8.6||||||||64|||||
+					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|2048.0|64.0|32.0||128 KB (per SM)|2 MB|49.18 GPixel/s|98.37 GTexel/s|6.296 TFLOPS|30 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|||||E4728 SKU 10|98.37 GFLOPS (1:64)|||832 MHz|1537 MHz|||6.296 TFLOPS (1:1)|||||||||||16.0|||||||||||||||||||16.0|8.6||||||||64.0|||||
 RTX A5500|/gpu-specs/rtx-a5500.c3901|GA102||Ampere|Samsung|8 nm|28,300 million|45.1M / mm²|628 mm²|BGA-3328|Mar 22nd, 2022|"Workstation Ampere
 (Ax000)"|Quadro Turing|Workstation Ada|Active|PCIe 4.0 x16|||"2000 MHz
 										
-					16 Gbps effective"|24 GB|GDDR6|384 bit|768.0 GB/s|10240|320|96||128 KB (per SM)|6 MB|159.8 GPixel/s|532.8 GTexel/s|34.10 TFLOPS|230 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					16 Gbps effective"|24 GB|GDDR6|384 bit|768.0 GB/s|10240.0|320.0|96.0||128 KB (per SM)|6 MB|159.8 GPixel/s|532.8 GTexel/s|34.10 TFLOPS|230 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
 					10.5 inches"|"112 mm
-					4.4 inches"|550 W|1x 8-pin||532.8 GFLOPS (1:64)|||1080 MHz|1665 MHz|||34.10 TFLOPS (1:1)|||||||||||80|||||||||||||||||||80|8.6||||||||320|||||
+					4.4 inches"|550 W|1x 8-pin||532.8 GFLOPS (1:64)|||1080 MHz|1665 MHz|||34.10 TFLOPS (1:1)|||||||||||80.0|||||||||||||||||||80.0|8.6||||||||320.0|||||
 RTX A5500 Max-Q|/gpu-specs/rtx-a5500-max-q.c4011|GA103||Ampere|Samsung|8 nm|22,000 million|44.4M / mm²|496 mm²|BGA-2708|Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"1750 MHz
 										
-					14 Gbps effective"|16 GB|GDDR6|256 bit|448.0 GB/s|7424|232|96||128 KB (per SM)|4 MB|121.0 GPixel/s|292.3 GTexel/s|18.71 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|||||None|E4735 SKU 310|292.3 GFLOPS (1:64)|||585 MHz|1260 MHz|||18.71 TFLOPS (1:1)|||||||||||58|||||||||||||||||||58|8.6||||||||232|||||
+					14 Gbps effective"|16 GB|GDDR6|256 bit|448.0 GB/s|7424.0|232.0|96.0||128 KB (per SM)|4 MB|121.0 GPixel/s|292.3 GTexel/s|18.71 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||||||E4735 SKU 310|292.3 GFLOPS (1:64)|||585 MHz|1260 MHz|||18.71 TFLOPS (1:1)|||||||||||58.0|||||||||||||||||||58.0|8.6||||||||232.0|||||
 RTX A5500 Mobile|/gpu-specs/rtx-a5500-mobile.c3902|GA103||Ampere|Samsung|8 nm|22,000 million|44.4M / mm²|496 mm²|BGA-2708|Mar 22nd, 2022|"Ampere-MW
 (Ax000)"|Quadro Turing-M|Ada-MW|Active|PCIe 4.0 x16|||"2000 MHz
 										
-					16 Gbps effective"|16 GB|GDDR6|256 bit|512.0 GB/s|7424|232|96||128 KB (per SM)|4 MB|144.0 GPixel/s|348.0 GTexel/s|22.27 TFLOPS|165 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|||||None|E4735 SKU 310|348.0 GFLOPS (1:64)|||975 MHz|1500 MHz|||22.27 TFLOPS (1:1)|||||||||||58|||||||||||||||||||58|8.6||||||||232|||||
+					16 Gbps effective"|16 GB|GDDR6|256 bit|512.0 GB/s|7424.0|232.0|96.0||128 KB (per SM)|4 MB|144.0 GPixel/s|348.0 GTexel/s|22.27 TFLOPS|165 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||||||E4735 SKU 310|348.0 GFLOPS (1:64)|||975 MHz|1500 MHz|||22.27 TFLOPS (1:1)|||||||||||58.0|||||||||||||||||||58.0|8.6||||||||232.0|||||
 T550 Mobile|/gpu-specs/t550-mobile.c3918|TU117||Turing|TSMC|12 nm|4,700 million|23.5M / mm²|200 mm²|BGA-960|May 2022|"Quadro Turing-M
 (Tx000)"|Quadro Pascal-M|Ampere-MW|Active|PCIe 3.0 x16|||"1500 MHz
 										
-					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|1024|64|32||64 KB (per SM)|1024 KB|53.28 GPixel/s|106.6 GTexel/s|3.410 TFLOPS|23 W|Portable Device Dependent|12 (12_1)|4.6|3.0|1.3|6.8|IGP||||None|E4728 SKU 110|106.6 GFLOPS (1:32)|||1065 MHz|1665 MHz|||6.820 TFLOPS (2:1)||||||||||||||||||||||||||||||16|7.5|||||||||||||
+					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|1024.0|64.0|32.0||64 KB (per SM)|1024 KB|53.28 GPixel/s|106.6 GTexel/s|3.410 TFLOPS|23 W|Portable Device Dependent|12 (12_1)|4.6|3.0|1.3|6.8|IGP|||||E4728 SKU 110|106.6 GFLOPS (1:32)|||1065 MHz|1665 MHz|||6.820 TFLOPS (2:1)||||||||||||||||||||||||||||||16.0|7.5|||||||||||||
 GeForce RTX 4050|/gpu-specs/geforce-rtx-4050.c3892|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
 										
-					18 Gbps effective"|6 GB|GDDR6|96 bit|216.0 GB/s|2560|80|32||128 KB (per SM)|32 MB|84.48 GPixel/s|211.2 GTexel/s|13.52 TFLOPS|100 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|||300 W|1x 8-pin||211.2 GFLOPS (1:64)|||2505 MHz|2640 MHz|||13.52 TFLOPS (1:1)|||||||||||18|||||||||||||||||||18|8.9||||||||120|||||
+					18 Gbps effective"|6 GB|GDDR6|96 bit|216.0 GB/s|2560.0|80.0|32.0||128 KB (per SM)|32 MB|84.48 GPixel/s|211.2 GTexel/s|13.52 TFLOPS|100 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|||300 W|1x 8-pin||211.2 GFLOPS (1:64)|||2505 MHz|2640 MHz|||13.52 TFLOPS (1:1)|||||||||||18.0|||||||||||||||||||18.0|8.9||||||||120.0|||||
 GeForce RTX 4050 Max-Q|/gpu-specs/geforce-rtx-4050-max-q.c3987|AD107|GN21-X2|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|6 GB|GDDR6|96 bit|192.0 GB/s|2560|80|48||128 KB (per SM)|12 MB|77.04 GPixel/s|128.4 GTexel/s|8.218 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||128.4 GFLOPS (1:64)|||1140 MHz|1605 MHz|||8.218 TFLOPS (1:1)|||Unknown||||||||20|||||||||||||||||||20|8.9||||||||80|||||
+					16 Gbps effective"|6 GB|GDDR6|96 bit|192.0 GB/s|2560.0|80.0|48.0||128 KB (per SM)|12 MB|77.04 GPixel/s|128.4 GTexel/s|8.218 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||128.4 GFLOPS (1:64)|||1140 MHz|1605 MHz|||8.218 TFLOPS (1:1)|||Unknown||||||||20.0|||||||||||||||||||20.0|8.9||||||||80.0|||||
 GeForce RTX 4050 Mobile|/gpu-specs/geforce-rtx-4050-mobile.c3953|AD107|GN21-X2|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|6 GB|GDDR6|96 bit|192.0 GB/s|2560|80|48||128 KB (per SM)|12 MB|84.24 GPixel/s|140.4 GTexel/s|8.986 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||140.4 GFLOPS (1:64)|||1455 MHz|1755 MHz|||8.986 TFLOPS (1:1)|||Unknown||||||||20|||||||||||||||||||20|8.9||||||||80|||||
+					16 Gbps effective"|6 GB|GDDR6|96 bit|192.0 GB/s|2560.0|80.0|48.0||128 KB (per SM)|12 MB|84.24 GPixel/s|140.4 GTexel/s|8.986 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||140.4 GFLOPS (1:64)|||1455 MHz|1755 MHz|||8.986 TFLOPS (1:1)|||Unknown||||||||20.0|||||||||||||||||||20.0|8.9||||||||80.0|||||
 GeForce RTX 4060|/gpu-specs/geforce-rtx-4060.c4107|AD107|AD107-400-A1|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||May 18th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|45 in our database||"2125 MHz
 										
-					17 Gbps effective"|8 GB|GDDR6|128 bit|272.0 GB/s|3072|96|48||128 KB (per SM)|24 MB|118.1 GPixel/s|236.2 GTexel/s|15.11 TFLOPS|115 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					17 Gbps effective"|8 GB|GDDR6|128 bit|272.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|24 MB|118.1 GPixel/s|236.2 GTexel/s|15.11 TFLOPS|115 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
 					9.4 inches"|"111 mm
 					4.4 inches"|300 W|1x 12-pin|PG173 SKU 371|236.2 GFLOPS (1:64)|299 USD|"40 mm
 					1.6 inches"|1830 MHz|2460 MHz|||15.11 TFLOPS (1:1)|||Jun 29th, 2023||"Amazon
 						/
-						Newegg"||||||24|||||||||||||||||||24|8.9||||||||96|||||
+						Newegg"||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
 GeForce RTX 4060 Max-Q|/gpu-specs/geforce-rtx-4060-max-q.c3986|AD107|GN21-X4|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072|96|48||128 KB (per SM)|32 MB|70.56 GPixel/s|141.1 GTexel/s|9.032 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||141.1 GFLOPS (1:64)|||1140 MHz|1470 MHz|||9.032 TFLOPS (1:1)|||Unknown||||||||24|||||||||||||||||||24|8.9||||||||96|||||
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|32 MB|70.56 GPixel/s|141.1 GTexel/s|9.032 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||141.1 GFLOPS (1:64)|||1140 MHz|1470 MHz|||9.032 TFLOPS (1:1)|||Unknown||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
 GeForce RTX 4060 Mobile|/gpu-specs/geforce-rtx-4060-mobile.c3946|AD107|GN21-X4|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072|96|48||128 KB (per SM)|32 MB|90.72 GPixel/s|181.4 GTexel/s|11.61 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||181.4 GFLOPS (1:64)|||1545 MHz|1890 MHz|||11.61 TFLOPS (1:1)|||Unknown||||||||24|||||||||||||||||||24|8.9||||||||96|||||
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|32 MB|90.72 GPixel/s|181.4 GTexel/s|11.61 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||181.4 GFLOPS (1:64)|||1545 MHz|1890 MHz|||11.61 TFLOPS (1:1)|||Unknown||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
 GeForce RTX 4060 Ti 16 GB|/gpu-specs/geforce-rtx-4060-ti-16-gb.c4155|AD106|AD106-351-A1|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||May 18th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
 										
-					18 Gbps effective"|16 GB|GDDR6|128 bit|288.0 GB/s|4352|136|48||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|165 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					18 Gbps effective"|16 GB|GDDR6|128 bit|288.0 GB/s|4352.0|136.0|48.0||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|165 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
 					9.4 inches"|"111 mm
 					4.4 inches"|450 W|1x 16-pin|PG190 SKU 363|344.8 GFLOPS (1:64)|499 USD|"40 mm
 					1.6 inches"|2310 MHz|2535 MHz|||22.06 TFLOPS (1:1)|||July 18th, 2023||"Amazon
 						/
-						Newegg"||||||34|||||||||||||||||||34|8.9||||||||136|||||
+						Newegg"||||||34.0|||||||||||||||||||34.0|8.9||||||||136.0|||||
 GeForce RTX 4060 Ti 8 GB|/gpu-specs/geforce-rtx-4060-ti-8-gb.c3890|AD106|AD106-350-A1|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||May 18th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
 										
-					18 Gbps effective"|8 GB|GDDR6|128 bit|288.0 GB/s|4352|136|48||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|160 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					18 Gbps effective"|8 GB|GDDR6|128 bit|288.0 GB/s|4352.0|136.0|48.0||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|160 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
 					9.4 inches"|"111 mm
 					4.4 inches"|450 W|1x 16-pin|PG190 SKU 361|344.8 GFLOPS (1:64)|399 USD|"40 mm
 					1.6 inches"|2310 MHz|2535 MHz|||22.06 TFLOPS (1:1)|||May 24th, 2023||"Amazon
 						/
-						Newegg"||||||34|||||||||||||||||||34|8.9||||||||136|||||
+						Newegg"||||||34.0|||||||||||||||||||34.0|8.9||||||||136.0|||||
 GeForce RTX 4070|/gpu-specs/geforce-rtx-4070.c3924|AD104|AD104-250-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Apr 12th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|53 in our database||"1313 MHz
 										
-					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|5888|184|64||128 KB (per SM)|36 MB|158.4 GPixel/s|455.4 GTexel/s|29.15 TFLOPS|200 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|5888.0|184.0|64.0||128 KB (per SM)|36 MB|158.4 GPixel/s|455.4 GTexel/s|29.15 TFLOPS|200 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
 					9.4 inches"|"110 mm
 					4.3 inches"|550 W|1x 16-pin|PG141 SKU 343|455.4 GFLOPS (1:64)|599 USD|"40 mm
 					1.6 inches"|1920 MHz|2475 MHz|||29.15 TFLOPS (1:1)|||Apr 13th, 2023||"Amazon
 						/
-						Newegg"||||||46|||||||||||||||||||46|8.9||||||||184|||||
+						Newegg"||||||46.0|||||||||||||||||||46.0|8.9||||||||184.0|||||
 GeForce RTX 4070 Max-Q|/gpu-specs/geforce-rtx-4070-max-q.c3954|AD106|GN21-X6|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|4608|144|48||128 KB (per SM)|32 MB|59.04 GPixel/s|177.1 GTexel/s|11.34 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||177.1 GFLOPS (1:64)|||735 MHz|1230 MHz|||11.34 TFLOPS (1:1)|||Unknown||||||||36|||||||||||||||||||36|8.9||||||||144|||||
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|59.04 GPixel/s|177.1 GTexel/s|11.34 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||177.1 GFLOPS (1:64)|||735 MHz|1230 MHz|||11.34 TFLOPS (1:1)|||Unknown||||||||36.0|||||||||||||||||||36.0|8.9||||||||144.0|||||
 GeForce RTX 4070 Mobile|/gpu-specs/geforce-rtx-4070-mobile.c3944|AD106|GN21-X6|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
-					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|4608|144|48||128 KB (per SM)|32 MB|81.36 GPixel/s|244.1 GTexel/s|15.62 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||244.1 GFLOPS (1:64)|||1395 MHz|1695 MHz|||15.62 TFLOPS (1:1)|||Unknown||||||||36|||||||||||||||||||36|8.9||||||||144|||||
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|81.36 GPixel/s|244.1 GTexel/s|15.62 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||244.1 GFLOPS (1:64)|||1395 MHz|1695 MHz|||15.62 TFLOPS (1:1)|||Unknown||||||||36.0|||||||||||||||||||36.0|8.9||||||||144.0|||||
 GeForce RTX 4070 Ti|/gpu-specs/geforce-rtx-4070-ti.c3950|AD104|AD104-400-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Jan 3rd, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|45 in our database||"1313 MHz
 										
-					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|7680|240|80||128 KB (per SM)|48 MB|208.8 GPixel/s|626.4 GTexel/s|40.09 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"285 mm
+					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|7680.0|240.0|80.0||128 KB (per SM)|48 MB|208.8 GPixel/s|626.4 GTexel/s|40.09 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"285 mm
 					11.2 inches"|"112 mm
 					4.4 inches"|600 W|1x 16-pin|PG141 SKU 331|626.4 GFLOPS (1:64)|799 USD|"42 mm
 					1.7 inches"|2310 MHz|2610 MHz|||40.09 TFLOPS (1:1)|||Jan 5th, 2023||"Amazon
 						/
-						Newegg"||||||60|||||||||||||||||||60|8.9||||||||240|||||
+						Newegg"||||||60.0|||||||||||||||||||60.0|8.9||||||||240.0|||||
 GeForce RTX 4080 Max-Q|/gpu-specs/geforce-rtx-4080-max-q.c3948|AD104|GN21-X9|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|7424|232|80||128 KB (per SM)|48 MB|108.0 GPixel/s|313.2 GTexel/s|20.04 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||313.2 GFLOPS (1:64)|||795 MHz|1350 MHz|||20.04 TFLOPS (1:1)|||Feb 7th, 2023||||||||58|||||||||||||||||||58|8.9||||||||232|||||
+					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|7424.0|232.0|80.0||128 KB (per SM)|48 MB|108.0 GPixel/s|313.2 GTexel/s|20.04 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||313.2 GFLOPS (1:64)|||795 MHz|1350 MHz|||20.04 TFLOPS (1:1)|||Feb 7th, 2023||||||||58.0|||||||||||||||||||58.0|8.9||||||||232.0|||||
 GeForce RTX 4080 Mobile|/gpu-specs/geforce-rtx-4080-mobile.c3947|AD104|GN21-X9|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|7424|232|80||128 KB (per SM)|48 MB|133.2 GPixel/s|386.3 GTexel/s|24.72 TFLOPS|110 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||386.3 GFLOPS (1:64)|||1290 MHz|1665 MHz|||24.72 TFLOPS (1:1)|||Feb 7th, 2023||||||||58|||||||||||||||||||58|8.9||||||||232|||||
+					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|7424.0|232.0|80.0||128 KB (per SM)|48 MB|133.2 GPixel/s|386.3 GTexel/s|24.72 TFLOPS|110 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||386.3 GFLOPS (1:64)|||1290 MHz|1665 MHz|||24.72 TFLOPS (1:1)|||Feb 7th, 2023||||||||58.0|||||||||||||||||||58.0|8.9||||||||232.0|||||
 GeForce RTX 4080 Ti|/gpu-specs/geforce-rtx-4080-ti.c3887|AD102|AD102-225-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|unknown|PCIe 4.0 x16|||"1325 MHz
 										
-					21.2 Gbps effective"|16 GB|GDDR6X|256 bit|678.4 GB/s|14080|440|144||128 KB (per SM)|80 MB|375.8 GPixel/s|1,148.4 GTexel/s|73.50 TFLOPS|400 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"336 mm
+					21.2 Gbps effective"|16 GB|GDDR6X|256 bit|678.4 GB/s|14080.0|440.0|144.0||128 KB (per SM)|80 MB|375.8 GPixel/s|1,148.4 GTexel/s|73.50 TFLOPS|400 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"336 mm
 					13.2 inches"|"140 mm
 					5.5 inches"|800 W|1x 16-pin||1,148.4 GFLOPS (1:64)||"61 mm
-					2.4 inches"|2340 MHz|2610 MHz|||73.50 TFLOPS (1:1)|||||||||||110|||||||||||||||||||110|8.9||||||||440|||||
+					2.4 inches"|2340 MHz|2610 MHz|||73.50 TFLOPS (1:1)|||||||||||110.0|||||||||||||||||||110.0|8.9||||||||440.0|||||
 GeForce RTX 4090 D|/gpu-specs/geforce-rtx-4090-d.c4189|AD102|AD102-250-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Dec 28th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|||"1313 MHz
 										
-					21 Gbps effective"|24 GB|GDDR6X|384 bit|1.01 TB/s|14592|456|176||128 KB (per SM)|72 MB|443.5 GPixel/s|1,149.1 GTexel/s|73.54 TFLOPS|425 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"304 mm
+					21 Gbps effective"|24 GB|GDDR6X|384 bit|1.01 TB/s|14592.0|456.0|176.0||128 KB (per SM)|72 MB|443.5 GPixel/s|1,149.1 GTexel/s|73.54 TFLOPS|425 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"304 mm
 					12 inches"|"137 mm
 					5.4 inches"|800 W|1x 16-pin|PG139 SKU 330|1,149.1 GFLOPS (1:64)|1,599 USD|"61 mm
-					2.4 inches"|2280 MHz|2520 MHz|||73.54 TFLOPS (1:1)|||Dec 28th, 2023||||||||114|||||||||||||||||||114|8.9||||||||456|||||
+					2.4 inches"|2280 MHz|2520 MHz|||73.54 TFLOPS (1:1)|||Dec 28th, 2023||||||||114.0|||||||||||||||||||114.0|8.9||||||||456.0|||||
 GeForce RTX 4090 Max-Q|/gpu-specs/geforce-rtx-4090-max-q.c3988|AD103|GN21-X11|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728|304|112||128 KB (per SM)|64 MB|163.0 GPixel/s|442.3 GTexel/s|28.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||442.3 GFLOPS (1:64)|||930 MHz|1455 MHz|||28.31 TFLOPS (1:1)|||Feb 7th, 2023||||||||76|||||||||||||||||||76|8.9||||||||304|||||
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|163.0 GPixel/s|442.3 GTexel/s|28.31 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||442.3 GFLOPS (1:64)|||930 MHz|1455 MHz|||28.31 TFLOPS (1:1)|||Feb 7th, 2023||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
 GeForce RTX 4090 Mobile|/gpu-specs/geforce-rtx-4090-mobile.c3949|AD103|GN21-X11|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x16|||"2250 MHz
 										
-					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728|304|112||128 KB (per SM)|64 MB|189.8 GPixel/s|515.3 GTexel/s|32.98 TFLOPS|120 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||None||515.3 GFLOPS (1:64)|||1335 MHz|1695 MHz|||32.98 TFLOPS (1:1)|||Feb 7th, 2023||||||||76|||||||||||||||||||76|8.9||||||||304|||||
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|189.8 GPixel/s|515.3 GTexel/s|32.98 TFLOPS|120 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||515.3 GFLOPS (1:64)|||1335 MHz|1695 MHz|||32.98 TFLOPS (1:1)|||Feb 7th, 2023||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
 GeForce RTX 4090 Ti|/gpu-specs/geforce-rtx-4090-ti.c3917|AD102|AD102-400-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|unknown|PCIe 4.0 x16|||"1500 MHz
 										
-					24 Gbps effective"|24 GB|GDDR6X|384 bit|1.15 TB/s|18176|568|192||128 KB (per SM)|96 MB|492.5 GPixel/s|1,456.9 GTexel/s|93.24 TFLOPS|600 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"336 mm
+					24 Gbps effective"|24 GB|GDDR6X|384 bit|1.15 TB/s|18176.0|568.0|192.0||128 KB (per SM)|96 MB|492.5 GPixel/s|1,456.9 GTexel/s|93.24 TFLOPS|600 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"336 mm
 					13.2 inches"|"140 mm
 					5.5 inches"|1000 W|2x 16-pin|PG136 SKU 310|1,456.9 GFLOPS (1:64)||"61 mm
-					2.4 inches"|2325 MHz|2565 MHz|||93.24 TFLOPS (1:1)|||||||||||142|||||||||||||||||||142|8.9||||||||568|||||
+					2.4 inches"|2325 MHz|2565 MHz|||93.24 TFLOPS (1:1)|||||||||||142.0|||||||||||||||||||142.0|8.9||||||||568.0|||||
 H100 CNX|/gpu-specs/h100-cnx.c4131|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1593 MHz
 										
-					3.2 Gbps effective"|80 GB|HBM2e|5120 bit|2.04 TB/s|14592|456|24||256 KB (per SM)|50 MB|44.28 GPixel/s|841.3 GTexel/s|53.84 TFLOPS|350 W|No outputs|N/A|N/A|3.0|N/A|N/A|Dual-slot|"267 mm
+					3.2 Gbps effective"|80 GB|HBM2e|5120 bit|2.04 TB/s|14592.0|456.0|24.0||256 KB (per SM)|50 MB|44.28 GPixel/s|841.3 GTexel/s|53.84 TFLOPS|350 W|No outputs|||3.0|||Dual-slot|"267 mm
 					10.5 inches"|"111 mm
-					4.4 inches"|750 W|8-pin EPS|P1010|26.92 TFLOPS (1:2)|||690 MHz|1845 MHz|||215.4 TFLOPS (4:1)||||||||||||||||||||||||||||||114|9.0||||||||456|||||
+					4.4 inches"|750 W|8-pin EPS|P1010|26.92 TFLOPS (1:2)|||690 MHz|1845 MHz|||215.4 TFLOPS (4:1)||||||||||||||||||||||||||||||114.0|9.0||||||||456.0|||||
 H100 PCIe 96 GB|/gpu-specs/h100-pcie-96-gb.c4164|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
 										
-					5.3 Gbps effective"|96 GB|HBM3|5120 bit|3.36 TB/s|16896|528|24||256 KB (per SM)|50 MB|44.09 GPixel/s|969.9 GTexel/s|62.08 TFLOPS|700 W|No outputs|N/A|N/A|3.0|N/A|N/A|Dual-slot|"268 mm
+					5.3 Gbps effective"|96 GB|HBM3|5120 bit|3.36 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|44.09 GPixel/s|969.9 GTexel/s|62.08 TFLOPS|700 W|No outputs|||3.0|||Dual-slot|"268 mm
 					10.6 inches"|"111 mm
-					4.4 inches"|1100 W|8-pin EPS|PG520|31.04 TFLOPS (1:2)|||1665 MHz|1837 MHz|||248.3 TFLOPS (4:1)||||||||||||||||||||||||||||||132|9.0||||||||528|||||
+					4.4 inches"|1100 W|8-pin EPS|PG520|31.04 TFLOPS (1:2)|||1665 MHz|1837 MHz|||248.3 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
 H100 SXM5 64 GB|/gpu-specs/h100-sxm5-64-gb.c4165|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
 										
-					5.3 Gbps effective"|64 GB|HBM3|3072 bit|2.02 TB/s|16896|528|24||256 KB (per SM)|30 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|N/A|N/A|3.0|N/A|N/A|SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1665 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132|9.0||||||||528|||||
+					5.3 Gbps effective"|64 GB|HBM3|3072 bit|2.02 TB/s|16896.0|528.0|24.0||256 KB (per SM)|30 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1665 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
 H100 SXM5 94 GB|/gpu-specs/h100-sxm5-94-gb.c4294|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
 										
-					5.3 Gbps effective"|94 GB|HBM3|5120 bit|3.36 TB/s|16896|528|24||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|N/A|N/A|3.0|N/A|N/A|SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1350 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132|9.0||||||||528|||||
+					5.3 Gbps effective"|94 GB|HBM3|5120 bit|3.36 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1350 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
 H100 SXM5 96 GB|/gpu-specs/h100-sxm5-96-gb.c3974|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
 (Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
 										
-					5.3 Gbps effective"|96 GB|HBM3|5120 bit|3.36 TB/s|16896|528|24||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|N/A|N/A|3.0|N/A|N/A|SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1350 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132|9.0||||||||528|||||
-H800 PCIe 80 GB|/gpu-specs/h800-pcie-80-gb.c4181||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-H800 SXM5|/gpu-specs/h800-sxm5.c3975||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson AGX Orin 32 GB|/gpu-specs/jetson-agx-orin-32-gb.c4084||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson AGX Orin 64 GB|/gpu-specs/jetson-agx-orin-64-gb.c4085||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson Orin Nano 4 GB|/gpu-specs/jetson-orin-nano-4-gb.c4083||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson Orin Nano 8 GB|/gpu-specs/jetson-orin-nano-8-gb.c4082||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson Orin NX 16 GB|/gpu-specs/jetson-orin-nx-16-gb.c4086||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Jetson Orin NX 8 GB|/gpu-specs/jetson-orin-nx-8-gb.c4081||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-L20|/gpu-specs/l20.c4206||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-L4|/gpu-specs/l4.c4091||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 2000 Embedded Ada Generation|/gpu-specs/rtx-2000-embedded-ada-generation.c4177||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 2000 Max-Q Ada Generation|/gpu-specs/rtx-2000-max-q-ada-generation.c4094||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 2000 Mobile Ada Generation|/gpu-specs/rtx-2000-mobile-ada-generation.c4093||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 3000 Mobile Ada Generation|/gpu-specs/rtx-3000-mobile-ada-generation.c4095||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 3500 Embedded Ada Generation|/gpu-specs/rtx-3500-embedded-ada-generation.c4201||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 3500 Mobile Ada Generation|/gpu-specs/rtx-3500-mobile-ada-generation.c4098||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 4000 Ada Generation|/gpu-specs/rtx-4000-ada-generation.c4171||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 4000 Mobile Ada Generation|/gpu-specs/rtx-4000-mobile-ada-generation.c4096||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 4000 SFF Ada Generation|/gpu-specs/rtx-4000-sff-ada-generation.c4139||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 4500 Ada Generation|/gpu-specs/rtx-4500-ada-generation.c4172||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5000 Ada Generation|/gpu-specs/rtx-5000-ada-generation.c4152||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5000 Embedded Ada Generation|/gpu-specs/rtx-5000-embedded-ada-generation.c4176||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5000 Embedded Ada Generation X2|/gpu-specs/rtx-5000-embedded-ada-generation-x2.c4256||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5000 Max-Q Ada Generation|/gpu-specs/rtx-5000-max-q-ada-generation.c4154||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5000 Mobile Ada Generation|/gpu-specs/rtx-5000-mobile-ada-generation.c4097||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-TITAN Ada|/gpu-specs/titan-ada.c3985||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-B100|/gpu-specs/b100.c4275||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-B200 SXM 192 GB|/gpu-specs/b200-sxm-192-gb.c4210||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 3050 6 GB|/gpu-specs/geforce-rtx-3050-6-gb.c4188||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 3050 A Mobile|/gpu-specs/geforce-rtx-3050-a-mobile.c4227||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4010|/gpu-specs/geforce-rtx-4010.c4247||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4060 AD106|/gpu-specs/geforce-rtx-4060-ad106.c3891||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4060 Ti AD104|/gpu-specs/geforce-rtx-4060-ti-ad104.c4204||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 10 GB|/gpu-specs/geforce-rtx-4070-10-gb.c4226||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 AD103|/gpu-specs/geforce-rtx-4070-ad103.c4205||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 GDDR6|/gpu-specs/geforce-rtx-4070-gddr6.c4228||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 SUPER|/gpu-specs/geforce-rtx-4070-super.c4186||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 Ti SUPER|/gpu-specs/geforce-rtx-4070-ti-super.c4187||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4070 Ti SUPER AD102|/gpu-specs/geforce-rtx-4070-ti-super-ad102.c4215||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 4080 SUPER|/gpu-specs/geforce-rtx-4080-super.c4182||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-H200 NVL|/gpu-specs/h200-nvl.c4254||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-H200 SXM 141 GB|/gpu-specs/h200-sxm-141-gb.c4255||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 1000 Mobile Ada Generation|/gpu-specs/rtx-1000-mobile-ada-generation.c4208||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 2000 Ada Generation|/gpu-specs/rtx-2000-ada-generation.c4199||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 500 Mobile Ada Generation|/gpu-specs/rtx-500-mobile-ada-generation.c4207||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX 5880 Ada Generation|/gpu-specs/rtx-5880-ada-generation.c4191||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX A1000|/gpu-specs/rtx-a1000.c4211||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX A400|/gpu-specs/rtx-a400.c4212||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5050|/gpu-specs/geforce-rtx-5050.c4220||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5050 Mobile|/gpu-specs/geforce-rtx-5050-mobile.c4239||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5060|/gpu-specs/geforce-rtx-5060.c4219||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5060 Mobile|/gpu-specs/geforce-rtx-5060-mobile.c4230||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5060 Ti 16 GB|/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5060 Ti 8 GB|/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070|/gpu-specs/geforce-rtx-5070.c4218||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070 Mobile|/gpu-specs/geforce-rtx-5070-mobile.c4237||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070 SUPER|/gpu-specs/geforce-rtx-5070-super.c4311||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070 Ti|/gpu-specs/geforce-rtx-5070-ti.c4243||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070 Ti Mobile|/gpu-specs/geforce-rtx-5070-ti-mobile.c4238||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5070 Ti SUPER|/gpu-specs/geforce-rtx-5070-ti-super.c4312||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5080|/gpu-specs/geforce-rtx-5080.c4217||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5080 Mobile|/gpu-specs/geforce-rtx-5080-mobile.c4236||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5090|/gpu-specs/geforce-rtx-5090.c4216||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5090 D|/gpu-specs/geforce-rtx-5090-d.c4253||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-GeForce RTX 5090 Mobile|/gpu-specs/geforce-rtx-5090-mobile.c4235||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 4000 Blackwell|/gpu-specs/rtx-pro-4000-blackwell.c4279||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 4500 Blackwell|/gpu-specs/rtx-pro-4500-blackwell.c4278||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 5000 Blackwell|/gpu-specs/rtx-pro-5000-blackwell.c4276||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 6000 Blackwell|/gpu-specs/rtx-pro-6000-blackwell.c4272||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 6000 Blackwell Max-Q|/gpu-specs/rtx-pro-6000-blackwell-max-q.c4273||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-RTX PRO 6000 Blackwell Server|/gpu-specs/rtx-pro-6000-blackwell-server.c4274||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-Switch 2 GPU|/gpu-specs/switch-2-gpu.c4313||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+					5.3 Gbps effective"|96 GB|HBM3|5120 bit|3.36 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W|8-pin EPS|PG520|33.45 TFLOPS (1:2)|||1350 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
+H800 PCIe 80 GB|/gpu-specs/h800-pcie-80-gb.c4181|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
+(Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1593 MHz
+										
+					3.2 Gbps effective"|80 GB|HBM2e|5120 bit|2.04 TB/s|14592.0|456.0|24.0||256 KB (per SM)|50 MB|42.12 GPixel/s|800.3 GTexel/s|51.22 TFLOPS|350 W|No outputs|||3.0|||Dual-slot|"268 mm
+					10.6 inches"|"111 mm
+					4.4 inches"|750 W|1x 16-pin|P1010 SKU 200|25.61 TFLOPS (1:2)|||1095 MHz|1755 MHz|||204.9 TFLOPS (4:1)||||||||||||||||||||||||||||||114.0|9.0||||||||456.0|||||
+H800 SXM5|/gpu-specs/h800-sxm5.c3975|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Mar 21st, 2023|"Server Hopper
+(Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1313 MHz
+										
+					5.3 Gbps effective"|80 GB|HBM3|5120 bit|3.36 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|42.12 GPixel/s|926.6 GTexel/s|59.30 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W|8-pin EPS|PG520|29.65 TFLOPS (1:2)|||1095 MHz|1755 MHz|||237.2 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
+Jetson AGX Orin 32 GB|/gpu-specs/jetson-agx-orin-32-gb.c4084|GA10B||Ampere|Samsung|8 nm|unknown||200 mm²||Feb 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||930 MHz|"800 MHz
+										
+					6.4 Gbps effective"|32 GB|LPDDR5|256 bit|204.8 GB/s|1792.0|56.0|24.0||128 KB (per SM)|256 KB|22.32 GPixel/s|52.08 GTexel/s|3.333 TFLOPS|40 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"100 mm
+					3.9 inches"|"87 mm
+					3.4 inches"||||1.667 TFLOPS (1:2)|899 USD||||||6.666 TFLOPS (2:1)||||||||||||||||||||||||||||||14.0|8.6||||||||56.0|||||
+Jetson AGX Orin 64 GB|/gpu-specs/jetson-agx-orin-64-gb.c4085|GA10B||Ampere|Samsung|8 nm|unknown||200 mm²||Mar 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||1300 MHz|"800 MHz
+										
+					6.4 Gbps effective"|64 GB|LPDDR5|256 bit|204.8 GB/s|2048.0|64.0|32.0||128 KB (per SM)|256 KB|41.60 GPixel/s|83.20 GTexel/s|5.325 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"100 mm
+					3.9 inches"|"87 mm
+					3.4 inches"||||2.662 TFLOPS (1:2)|1,599 USD||||||10.65 TFLOPS (2:1)||||||||||||||||||||||||||||||16.0|8.6||||||||64.0|||||
+Jetson Orin Nano 4 GB|/gpu-specs/jetson-orin-nano-4-gb.c4083|GA10B||Ampere|Samsung|8 nm|unknown||200 mm²||Mar 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||625 MHz|"533 MHz
+										
+					4.3 Gbps effective"|4 GB|LPDDR5|64 bit|34.11 GB/s|512.0|16.0|8.0||128 KB (per SM)|256 KB|5.000 GPixel/s|10.00 GTexel/s|640.0 GFLOPS|10 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"70 mm
+					2.8 inches"|"45 mm
+					1.8 inches"||||320.0 GFLOPS (1:2)|199 USD||||||1,280.0 GFLOPS (2:1)||||||||||||||||||||||||||||||4.0|8.6||||||||16.0|||||
+Jetson Orin Nano 8 GB|/gpu-specs/jetson-orin-nano-8-gb.c4082|GA10B||Ampere|Samsung|8 nm|unknown||200 mm²||Mar 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||625 MHz|"533 MHz
+										
+					4.3 Gbps effective"|8 GB|LPDDR5|128 bit|68.22 GB/s|1024.0|32.0|16.0||128 KB (per SM)|256 KB|10.00 GPixel/s|20.00 GTexel/s|1,280.0 GFLOPS|15 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"70 mm
+					2.8 inches"|"45 mm
+					1.8 inches"||||640.0 GFLOPS (1:2)|299 USD||||||2.560 TFLOPS (2:1)||||||||||||||||||||||||||||||8.0|8.6||||||||32.0|||||
+Jetson Orin NX 16 GB|/gpu-specs/jetson-orin-nx-16-gb.c4086|GA10B|TE980M-A1|Ampere|Samsung|8 nm|unknown||200 mm²||Feb 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||918 MHz|"800 MHz
+										
+					6.4 Gbps effective"|16 GB|LPDDR5|128 bit|102.4 GB/s|1024.0|32.0|16.0||128 KB (per SM)|256 KB|14.69 GPixel/s|29.38 GTexel/s|1.880 TFLOPS|25 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"70 mm
+					2.8 inches"|"45 mm
+					1.8 inches"||||940.0 GFLOPS (1:2)|599 USD||||||3.760 TFLOPS (2:1)||||||||||||||||||||||||||||||8.0|8.6||||||||32.0|||||
+Jetson Orin NX 8 GB|/gpu-specs/jetson-orin-nx-8-gb.c4081|GA10B|TE980M-A1|Ampere|Samsung|8 nm|unknown||200 mm²||Mar 2023|"Tegra
+(Ampere)"|||End-of-life|PCIe 4.0 x4||765 MHz|"800 MHz
+										
+					6.4 Gbps effective"|8 GB|LPDDR5|128 bit|102.4 GB/s|1024.0|32.0|16.0||128 KB (per SM)|256 KB|12.24 GPixel/s|24.48 GTexel/s|1.567 TFLOPS|20 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|"70 mm
+					2.8 inches"|"45 mm
+					1.8 inches"||||783.4 GFLOPS (1:2)|399 USD||||||3.133 TFLOPS (2:1)||||||||||||||||||||||||||||||8.0|8.6||||||||32.0|||||
+L20|/gpu-specs/l20.c4206|AD102|AD102|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Nov 16th, 2023|"Server Ada
+(Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|11776.0|368.0|128.0||128 KB (per SM)|96 MB|322.6 GPixel/s|927.4 GTexel/s|59.35 TFLOPS|275 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|600 W|1x 16-pin||927.4 GFLOPS (1:64)|||1440 MHz|2520 MHz|||59.35 TFLOPS (1:1)|||2023||||||||92.0|||||||||||||||||||92.0|8.9||||||||368.0|||||
+L4|/gpu-specs/l4.c4091|AD104|AD104-???-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Mar 21st, 2023|"Server Ada
+(Lxx)"|Server Ampere|Server Hopper|Active|PCIe 4.0 x16|45 in our database||"1563 MHz
+										
+					12.5 Gbps effective"|24 GB|GDDR6|192 bit|300.1 GB/s|7424.0|240.0|80.0||128 KB (per SM)|48 MB|163.2 GPixel/s|489.6 GTexel/s|30.29 TFLOPS|72 W|No outputs|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Single-slot|"169 mm
+					6.7 inches"|"56 mm
+					2.2 inches"|250 W||PG193 SKU 200|473.3 GFLOPS (1:64)|||795 MHz|2040 MHz|||30.29 TFLOPS (1:1)|||||||||||60.0|||||||||||||||||||60.0|8.9||||||||240.0|||||
+RTX 2000 Embedded Ada Generation|/gpu-specs/rtx-2000-embedded-ada-generation.c4177|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2000 MHz
+										
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|12 MB|96.48 GPixel/s|193.0 GTexel/s|12.35 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||193.0 GFLOPS (1:64)|||1530 MHz|2010 MHz|||12.35 TFLOPS (1:1)|||||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
+RTX 2000 Max-Q Ada Generation|/gpu-specs/rtx-2000-max-q-ada-generation.c4094|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2000 MHz
+										
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|12 MB|69.84 GPixel/s|139.7 GTexel/s|8.940 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||139.7 GFLOPS (1:64)|||930 MHz|1455 MHz|||8.940 TFLOPS (1:1)|||Unknown||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
+RTX 2000 Mobile Ada Generation|/gpu-specs/rtx-2000-mobile-ada-generation.c4093|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2000 MHz
+										
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|12 MB|101.5 GPixel/s|203.0 GTexel/s|12.99 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||203.0 GFLOPS (1:64)|||1635 MHz|2115 MHz|||12.99 TFLOPS (1:1)|||||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
+RTX 3000 Mobile Ada Generation|/gpu-specs/rtx-3000-mobile-ada-generation.c4095|AD106||Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2000 MHz
+										
+					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|81.36 GPixel/s|244.1 GTexel/s|15.62 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||244.1 GFLOPS (1:64)|||1395 MHz|1695 MHz|||15.62 TFLOPS (1:1)|||Unknown||||||||36.0|||||||||||||||||||36.0|8.9||||||||144.0|||||
+RTX 3500 Embedded Ada Generation|/gpu-specs/rtx-3500-embedded-ada-generation.c4201|AD104||Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|5120.0|160.0|64.0||128 KB (per SM)|48 MB|144.0 GPixel/s|360.0 GTexel/s|23.04 TFLOPS|100 W|No outputs|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP|||300 W|||360.0 GFLOPS (1:64)|||1725 MHz|2250 MHz|||23.04 TFLOPS (1:1)|||Unknown||||||||40.0|||||||||||||||||||40.0|8.9||||||||160.0|||||
+RTX 3500 Mobile Ada Generation|/gpu-specs/rtx-3500-mobile-ada-generation.c4098|AD104||Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|5120.0|160.0|64.0||128 KB (per SM)|48 MB|98.88 GPixel/s|247.2 GTexel/s|15.82 TFLOPS|100 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||247.2 GFLOPS (1:64)|||1110 MHz|1545 MHz|||15.82 TFLOPS (1:1)|||Unknown||||||||40.0|||||||||||||||||||40.0|8.9||||||||160.0|||||
+RTX 4000 Ada Generation|/gpu-specs/rtx-4000-ada-generation.c4171|AD104||Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Aug 9th, 2023|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|20 GB|GDDR6|160 bit|360.0 GB/s|6144.0|192.0|64.0||128 KB (per SM)|48 MB|139.2 GPixel/s|417.6 GTexel/s|26.73 TFLOPS|130 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Single-slot|"245 mm
+					9.6 inches"|"112 mm
+					4.4 inches"|300 W|1x 16-pin||417.6 GFLOPS (1:64)|||1500 MHz|2175 MHz|||26.73 TFLOPS (1:1)|||||||||||48.0|||||||||||||||||||48.0|8.9||||||||192.0|||||
+RTX 4000 Mobile Ada Generation|/gpu-specs/rtx-4000-mobile-ada-generation.c4096|AD104||Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|12 GB|GDDR6|192 bit|432.0 GB/s|7424.0|232.0|80.0||128 KB (per SM)|48 MB|133.2 GPixel/s|386.3 GTexel/s|24.72 TFLOPS|110 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||386.3 GFLOPS (1:64)|||1290 MHz|1665 MHz|||24.72 TFLOPS (1:1)|||Unknown||||||||58.0|||||||||||||||||||58.0|8.9||||||||232.0|||||
+RTX 4000 SFF Ada Generation|/gpu-specs/rtx-4000-sff-ada-generation.c4139|AD104||Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Mar 21st, 2023|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"1750 MHz
+										
+					14 Gbps effective"|20 GB|GDDR6|160 bit|280.0 GB/s|6144.0|192.0|64.0||128 KB (per SM)|48 MB|99.84 GPixel/s|299.5 GTexel/s|19.17 TFLOPS|70 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"168 mm
+					6.6 inches"|"69 mm
+					2.7 inches"|250 W|||299.5 GFLOPS (1:64)|||720 MHz|1560 MHz|||19.17 TFLOPS (1:1)|||Unknown||||||||48.0|||||||||||||||||||48.0|8.9||||||||192.0|||||
+RTX 4500 Ada Generation|/gpu-specs/rtx-4500-ada-generation.c4172|AD103||Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Aug 9th, 2023|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|24 GB|GDDR6|192 bit|432.0 GB/s|7680.0|240.0|80.0||128 KB (per SM)|48 MB|206.4 GPixel/s|619.2 GTexel/s|39.63 TFLOPS|210 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"245 mm
+					9.6 inches"|"112 mm
+					4.4 inches"|550 W|||619.2 GFLOPS (1:64)|||2070 MHz|2580 MHz|||39.63 TFLOPS (1:1)|||||||||||60.0|||||||||||||||||||60.0|8.9||||||||240.0|||||
+RTX 5000 Ada Generation|/gpu-specs/rtx-5000-ada-generation.c4152|AD102|AD102|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Aug 9th, 2023|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|32 GB|GDDR6|256 bit|576.0 GB/s|12800.0|400.0|176.0||128 KB (per SM)|72 MB|448.8 GPixel/s|1,020.0 GTexel/s|65.28 TFLOPS|250 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					10.5 inches"|"112 mm
+					4.4 inches"|600 W|1x 16-pin||1,020.0 GFLOPS (1:64)|||1155 MHz|2550 MHz|||65.28 TFLOPS (1:1)|||Sep 29th, 2023||||||||100.0|||||||||||||||||||100.0|8.9||||||||400.0|||||
+RTX 5000 Embedded Ada Generation|/gpu-specs/rtx-5000-embedded-ada-generation.c4176|AD103||Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|188.2 GPixel/s|510.7 GTexel/s|32.69 TFLOPS|120 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||510.7 GFLOPS (1:64)|||930 MHz|1680 MHz|||32.69 TFLOPS (1:1)|||||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
+RTX 5000 Embedded Ada Generation X2|/gpu-specs/rtx-5000-embedded-ada-generation-x2.c4256|AD103||Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|188.2 GPixel/s|510.7 GTexel/s|32.69 TFLOPS|150 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||510.7 GFLOPS (1:64)|||930 MHz|1680 MHz|||32.69 TFLOPS (1:1)|||||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
+RTX 5000 Max-Q Ada Generation|/gpu-specs/rtx-5000-max-q-ada-generation.c4154|AD103||Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|188.2 GPixel/s|510.7 GTexel/s|32.69 TFLOPS|120 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||510.7 GFLOPS (1:64)|||930 MHz|1680 MHz|||32.69 TFLOPS (1:1)|||||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
+RTX 5000 Mobile Ada Generation|/gpu-specs/rtx-5000-mobile-ada-generation.c4097|AD103||Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Mar 21st, 2023|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|16 GB|GDDR6|256 bit|576.0 GB/s|9728.0|304.0|112.0||128 KB (per SM)|64 MB|236.9 GPixel/s|643.0 GTexel/s|41.15 TFLOPS|120 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||643.0 GFLOPS (1:64)|||1425 MHz|2115 MHz|||41.15 TFLOPS (1:1)|||||||||||76.0|||||||||||||||||||76.0|8.9||||||||304.0|||||
+TITAN Ada|/gpu-specs/titan-ada.c3985|AD102|AD102-450-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|||"1500 MHz
+										
+					24 Gbps effective"|48 GB|GDDR6X|384 bit|1.15 TB/s|18432.0|576.0|192.0||128 KB (per SM)|96 MB|483.8 GPixel/s|1,451.5 GTexel/s|92.90 TFLOPS|800 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Quad-slot|"336 mm
+					13.2 inches"|"140 mm
+					5.5 inches"|1200 W|2x 16-pin|PG137 SKU 330|1,451.5 GFLOPS (1:64)||"73 mm
+					2.9 inches"|2235 MHz|2520 MHz|||92.90 TFLOPS (1:1)|||||||||||144.0|||||||||||||||||||144.0|8.9||||||||576.0|||||
+B100|/gpu-specs/b100.c4275|GB102||Blackwell|TSMC|5 nm|104,000 million||unknown||Nov 2024|"Server Blackwell
+(Bxx)"|Server Hopper||Active|PCIe 5.0 x16|||"2000 MHz
+										
+					8 Gbps effective"|96 GB|HBM3e|4096 bit|4.10 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|44.09 GPixel/s|969.9 GTexel/s|62.08 TFLOPS|1000 W|No outputs|||3.0|||SXM Module|||1400 W|||31.04 TFLOPS (1:2)|||1665 MHz|1837 MHz|Mar 18th, 2024||248.3 TFLOPS (4:1)|||||||||||||||||4NP FinFET|||||||||||||132.0|10.1||||||||528.0|||||
+B200 SXM 192 GB|/gpu-specs/b200-sxm-192-gb.c4210|GB100||Blackwell|TSMC|5 nm|104,000 million||unknown||2024|"Server Blackwell
+(Bxx)"|Server Hopper||Active|PCIe 5.0 x16|||"2000 MHz
+										
+					8 Gbps effective"|96 GB|HBM3e|4096 bit|4.10 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|44.09 GPixel/s|969.9 GTexel/s|62.08 TFLOPS|1000 W|No outputs|||3.0|||SXM Module|||1400 W|||31.04 TFLOPS (1:2)|||1665 MHz|1837 MHz|Mar 18th, 2024||248.3 TFLOPS (4:1)|||||||||||||||||4NP FinFET|||||||||||||132.0|10.0||||||||528.0|||||
+GeForce RTX 3050 6 GB|/gpu-specs/geforce-rtx-3050-6-gb.c4188|GA107|GA107-325-K2-A1|Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Feb 2nd, 2024|GeForce 30|GeForce 20|GeForce 40|Active|PCIe 4.0 x8|||"1750 MHz
+										
+					14 Gbps effective"|6 GB|GDDR6|96 bit|168.0 GB/s|2304.0|72.0|32.0||128 KB (per SM)|2 MB|47.04 GPixel/s|105.8 GTexel/s|6.774 TFLOPS|70 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"242 mm
+					9.5 inches"|"112 mm
+					4.4 inches"|250 W|||105.8 GFLOPS (1:64)|179 USD||1042 MHz|1470 MHz|||6.774 TFLOPS (1:1)|||||||||||18.0|||||||||||||||||||18.0|8.6||||||||72.0|||||
+GeForce RTX 3050 A Mobile|/gpu-specs/geforce-rtx-3050-a-mobile.c4227|GA106||Ampere|Samsung|8 nm|12,000 million|43.5M / mm²|276 mm²|BGA-2713|2024|GeForce 30 Mobile|GeForce 20 Mobile||Active|PCIe 4.0 x8|||"1500 MHz
+										
+					12 Gbps effective"|4 GB|GDDR6|128 bit|192.0 GB/s|1792.0|56.0|32.0||128 KB (per SM)|2 MB|42.98 GPixel/s|75.21 GTexel/s|4.813 TFLOPS|45 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||75.21 GFLOPS (1:64)|||1065 MHz|1343 MHz|||4.813 TFLOPS (1:1)|||||||||||14.0|||||||||||||||||||14.0|8.6||||||||56.0|||||
+GeForce RTX 4010|/gpu-specs/geforce-rtx-4010.c4247|GA107||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Apr 16th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"1500 MHz
+										
+					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|768.0|24.0|16.0||128 KB (per SM)|2 MB|28.19 GPixel/s|42.29 GTexel/s|2.706 TFLOPS|50 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Single-slot|"163 mm
+					6.4 inches"|"69 mm
+					2.7 inches"|250 W|||42.29 GFLOPS (1:64)|||1417 MHz|1762 MHz|||2.706 TFLOPS (1:1)|||||||||||6.0|||||||||||||||||||6.0|8.6||||||||24.0|||||
+GeForce RTX 4060 AD106|/gpu-specs/geforce-rtx-4060-ad106.c3891|AD106|AD106-155-A1|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||Apr 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|45 in our database||"2125 MHz
+										
+					17 Gbps effective"|8 GB|GDDR6|128 bit|272.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|24 MB|118.1 GPixel/s|236.2 GTexel/s|15.11 TFLOPS|115 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|||300 W|1x 12-pin|PG173 SKU 368|236.2 GFLOPS (1:64)|||1830 MHz|2460 MHz|||15.11 TFLOPS (1:1)|||Apr 2024||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
+GeForce RTX 4060 Ti AD104|/gpu-specs/geforce-rtx-4060-ti-ad104.c4204|AD104|AD104-150-K1-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Apr 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
+										
+					18 Gbps effective"|8 GB|GDDR6|128 bit|288.0 GB/s|4352.0|136.0|48.0||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|160 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					9.4 inches"|"111 mm
+					4.4 inches"|450 W|1x 16-pin|PG141 SKU 359|344.8 GFLOPS (1:64)|399 USD|"40 mm
+					1.6 inches"|2310 MHz|2535 MHz|||22.06 TFLOPS (1:1)|||Apr, 2024||||||||34.0|||||||||||||||||||34.0|8.9||||||||136.0|||||
+GeForce RTX 4070 10 GB|/gpu-specs/geforce-rtx-4070-10-gb.c4226|AD104|AD104-275-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Never Released|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|42 in our database||"1313 MHz
+										
+					21 Gbps effective"|10 GB|GDDR6X|160 bit|420.2 GB/s|7168.0|224.0|80.0||128 KB (per SM)|48 MB|201.6 GPixel/s|564.5 GTexel/s|36.13 TFLOPS|220 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					10.5 inches"|"112 mm
+					4.4 inches"|550 W|1x 16-pin|PG141 SKU 335|564.5 GFLOPS (1:64)||"42 mm
+					1.7 inches"|2355 MHz|2520 MHz|||36.13 TFLOPS (1:1)|||||||||||56.0|||||||||||||||||||56.0|8.9||||||||224.0|||||
+GeForce RTX 4070 AD103|/gpu-specs/geforce-rtx-4070-ad103.c4205|AD103|AD103-175-K1-A1|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Mar 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|53 in our database||"1313 MHz
+										
+					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|5888.0|184.0|64.0||128 KB (per SM)|36 MB|158.4 GPixel/s|455.4 GTexel/s|29.15 TFLOPS|200 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					9.4 inches"|"110 mm
+					4.3 inches"|550 W|1x 16-pin|PG141 SKU 370|455.4 GFLOPS (1:64)|599 USD|"40 mm
+					1.6 inches"|1920 MHz|2475 MHz|||29.15 TFLOPS (1:1)|||Mar, 2024||||||||46.0|||||||||||||||||||46.0|8.9||||||||184.0|||||
+GeForce RTX 4070 GDDR6|/gpu-specs/geforce-rtx-4070-gddr6.c4228|AD104|AD104-2XX-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Aug 20th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|53 in our database||"2500 MHz
+										
+					20 Gbps effective"|12 GB|GDDR6|192 bit|480.0 GB/s|5888.0|184.0|64.0||128 KB (per SM)|36 MB|158.4 GPixel/s|455.4 GTexel/s|29.15 TFLOPS|200 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
+					9.4 inches"|"110 mm
+					4.3 inches"|550 W|1x 16-pin|PG141 SKU 347|455.4 GFLOPS (1:64)|599 USD|"40 mm
+					1.6 inches"|1920 MHz|2475 MHz|||29.15 TFLOPS (1:1)|||||||||||46.0|||||||||||||||||||46.0|8.9||||||||184.0|||||
+GeForce RTX 4070 SUPER|/gpu-specs/geforce-rtx-4070-super.c4186|AD104|AD104-350-A1|Ada Lovelace|TSMC|5 nm|35,800 million|121.8M / mm²|294 mm²||Jan 8th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|42 in our database||"1313 MHz
+										
+					21 Gbps effective"|12 GB|GDDR6X|192 bit|504.2 GB/s|7168.0|224.0|80.0||128 KB (per SM)|48 MB|198.0 GPixel/s|554.4 GTexel/s|35.48 TFLOPS|220 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					10.5 inches"|"112 mm
+					4.4 inches"|550 W|1x 16-pin|PG141 SKU 335|554.4 GFLOPS (1:64)|599 USD|"42 mm
+					1.7 inches"|1980 MHz|2475 MHz|||35.48 TFLOPS (1:1)|||Jan 17th, 2024||"Amazon
+						/
+						Newegg"||||||56.0|||||||||||||||||||56.0|8.9||||||||224.0|||||
+GeForce RTX 4070 Ti SUPER|/gpu-specs/geforce-rtx-4070-ti-super.c4187|AD103|AD103-275-A1|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Jan 8th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|40 in our database||"1313 MHz
+										
+					21 Gbps effective"|16 GB|GDDR6X|256 bit|672.3 GB/s|8448.0|264.0|96.0||128 KB (per SM)|48 MB|250.6 GPixel/s|689.0 GTexel/s|44.10 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"310 mm
+					12.2 inches"|"140 mm
+					5.5 inches"|600 W|1x 16-pin|PG141 SKU 323|689.0 GFLOPS (1:64)|799 USD|"61 mm
+					2.4 inches"|2340 MHz|2610 MHz|||44.10 TFLOPS (1:1)|||Jan  24th, 2024||"Amazon
+						/
+						Newegg"||||||66.0|||||||||||||||||||66.0|8.9||||||||264.0|||||
+GeForce RTX 4070 Ti SUPER AD102|/gpu-specs/geforce-rtx-4070-ti-super-ad102.c4215|AD102|AD102-175-KEF-A1|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Jun 10th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|40 in our database||"1313 MHz
+										
+					21 Gbps effective"|16 GB|GDDR6X|256 bit|672.3 GB/s|8448.0|264.0|96.0||128 KB (per SM)|48 MB|250.6 GPixel/s|689.0 GTexel/s|44.10 TFLOPS|285 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"310 mm
+					12.2 inches"|"140 mm
+					5.5 inches"|600 W|1x 16-pin|PG141 SKU 323|689.0 GFLOPS (1:64)|799 USD|"61 mm
+					2.4 inches"|2340 MHz|2610 MHz|||44.10 TFLOPS (1:1)|||||||||||66.0|||||||||||||||||||66.0|8.9||||||||264.0|||||
+GeForce RTX 4080 SUPER|/gpu-specs/geforce-rtx-4080-super.c4182|AD103|AD103-400-A1|Ada Lovelace|TSMC|5 nm|45,900 million|121.1M / mm²|379 mm²||Jan 8th, 2024|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x16|58 in our database||"1438 MHz
+										
+					23 Gbps effective"|16 GB|GDDR6X|256 bit|736.3 GB/s|10240.0|320.0|112.0||128 KB (per SM)|64 MB|285.6 GPixel/s|816.0 GTexel/s|52.22 TFLOPS|320 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Triple-slot|"310 mm
+					12.2 inches"|"140 mm
+					5.5 inches"|700 W|1x 16-pin|PG139 SKU 355|816.0 GFLOPS (1:64)|999 USD|"61 mm
+					2.4 inches"|2295 MHz|2550 MHz|||52.22 TFLOPS (1:1)|||Jan 31st, 2024||"Amazon
+						/
+						Newegg"||||||80.0|||||||||||||||||||80.0|8.9||||||||320.0|||||
+H200 NVL|/gpu-specs/h200-nvl.c4254|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Nov 18th, 2024|"Server Hopper
+(Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1593 MHz
+										
+					6.4 Gbps effective"|141 GB|HBM3e|6144 bit|4.89 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|42.84 GPixel/s|942.5 GTexel/s|60.32 TFLOPS|600 W|No outputs|||3.0|||Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|1000 W|8-pin EPS||30.16 TFLOPS (1:2)|||1365 MHz|1785 MHz|||241.3 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
+H200 SXM 141 GB|/gpu-specs/h200-sxm-141-gb.c4255|GH100||Hopper|TSMC|5 nm|80,000 million|98.3M / mm²|814 mm²||Nov 18th, 2024|"Server Hopper
+(Hxx)"|Server Ada|Server Blackwell|Active|PCIe 5.0 x16|||"1593 MHz
+										
+					6.4 Gbps effective"|141 GB|HBM3e|6144 bit|4.89 TB/s|16896.0|528.0|24.0||256 KB (per SM)|50 MB|47.52 GPixel/s|1,045.4 GTexel/s|66.91 TFLOPS|700 W|No outputs|||3.0|||SXM Module|||1100 W|8-pin EPS||33.45 TFLOPS (1:2)|||1500 MHz|1980 MHz|||267.6 TFLOPS (4:1)||||||||||||||||||||||||||||||132.0|9.0||||||||528.0|||||
+RTX 1000 Mobile Ada Generation|/gpu-specs/rtx-1000-mobile-ada-generation.c4208|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Feb 26th, 2024|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x8|||"2000 MHz
+										
+					16 Gbps effective"|6 GB|GDDR6|96 bit|192.0 GB/s|2560.0|80.0|48.0||128 KB (per SM)|12 MB|97.20 GPixel/s|162.0 GTexel/s|10.37 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||162.0 GFLOPS (1:64)|||1485 MHz|2025 MHz|||10.37 TFLOPS (1:1)|||||||||||20.0|||||||||||||||||||20.0|8.9||||||||80.0|||||
+RTX 2000 Ada Generation|/gpu-specs/rtx-2000-ada-generation.c4199|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Feb 12th, 2024|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x8|||"2000 MHz
+										
+					16 Gbps effective"|16 GB|GDDR6|128 bit|256.0 GB/s|2816.0|88.0|48.0||128 KB (per SM)|12 MB|102.2 GPixel/s|187.4 GTexel/s|12.00 TFLOPS|70 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"168 mm
+					6.6 inches"|"69 mm
+					2.7 inches"|250 W|||187.4 GFLOPS (1:64)|649 USD||1620 MHz|2130 MHz|||12.00 TFLOPS (1:1)|||||||||||22.0|||||||||||||||||||22.0|8.9||||||||88.0|||||
+RTX 500 Mobile Ada Generation|/gpu-specs/rtx-500-mobile-ada-generation.c4207|AD107||Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Feb 26th, 2024|"Ada-MW
+(x000A)"|Ampere-MW|Blackwell-MW|Active|PCIe 4.0 x8|||"2000 MHz
+										
+					16 Gbps effective"|4 GB|GDDR6|64 bit|128.0 GB/s|2048.0|64.0|32.0||128 KB (per SM)|12 MB|64.80 GPixel/s|129.6 GTexel/s|8.294 TFLOPS|35 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||129.6 GFLOPS (1:64)|||1485 MHz|2025 MHz|||8.294 TFLOPS (1:1)|||||||||||16.0|||||||||||||||||||16.0|8.9||||||||64.0|||||
+RTX 5880 Ada Generation|/gpu-specs/rtx-5880-ada-generation.c4191|AD102|AD102|Ada Lovelace|TSMC|5 nm|76,300 million|125.3M / mm²|609 mm²||Jan 5th, 2024|"Workstation Ada
+(x000A)"|Workstation Ampere|Blackwell PRO W|Active|PCIe 4.0 x16|||"2250 MHz
+										
+					18 Gbps effective"|48 GB|GDDR6|384 bit|864.0 GB/s|14080.0|440.0|176.0||128 KB (per SM)|72 MB|433.0 GPixel/s|1,082.4 GTexel/s|69.27 TFLOPS|285 W|4x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"267 mm
+					10.5 inches"|"112 mm
+					4.4 inches"|600 W|1x 16-pin||1,082.4 GFLOPS (1:64)|||975 MHz|2460 MHz|||69.27 TFLOPS (1:1)|||Jan 5th, 2024||||||||110.0|||||||||||||||||||110.0|8.9||||||||440.0|||||
+RTX A1000|/gpu-specs/rtx-a1000.c4211|GA107||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Apr 16th, 2024|"Workstation Ampere
+(Ax000)"|Quadro Turing|Workstation Ada|Active|PCIe 4.0 x8|||"1500 MHz
+										
+					12 Gbps effective"|8 GB|GDDR6|128 bit|192.0 GB/s|2304.0|72.0|32.0||128 KB (per SM)|2 MB|46.78 GPixel/s|105.3 GTexel/s|6.737 TFLOPS|50 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Single-slot|"163 mm
+					6.4 inches"|"69 mm
+					2.7 inches"|250 W|||105.3 GFLOPS (1:64)|||727 MHz|1462 MHz|||6.737 TFLOPS (1:1)|||||||||||18.0|||||||||||||||||||18.0|8.6||||||||72.0|||||
+RTX A400|/gpu-specs/rtx-a400.c4212|GA107||Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Apr 16th, 2024|"Workstation Ampere
+(Ax000)"|Quadro Turing|Workstation Ada|Active|PCIe 4.0 x8|||"1500 MHz
+										
+					12 Gbps effective"|4 GB|GDDR6|64 bit|96.00 GB/s|768.0|24.0|16.0||128 KB (per SM)|2 MB|28.19 GPixel/s|42.29 GTexel/s|2.706 TFLOPS|50 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Single-slot|"163 mm
+					6.4 inches"|"69 mm
+					2.7 inches"|250 W|||42.29 GFLOPS (1:64)|||1417 MHz|1762 MHz|||2.706 TFLOPS (1:1)|||||||||||6.0|||||||||||||||||||6.0|8.6||||||||24.0|||||
+GeForce RTX 5050|/gpu-specs/geforce-rtx-5050.c4220|GB207|GB207-300-A1|Blackwell 2.0|TSMC|5 nm|16,900 million|113.4M / mm²|149 mm²||Jul 1st, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|1 in our database||"2500 MHz
+										
+					20 Gbps effective"|8 GB|GDDR6|128 bit|320.0 GB/s|2560.0|80.0|32.0||128 KB (per SM)|24 MB|82.30 GPixel/s|205.8 GTexel/s|13.17 TFLOPS|130 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|||300 W|1x 8-pin|PG152 SKU 50|205.8 GFLOPS (1:64)|249 USD||2317 MHz|2572 MHz|Jun 24th, 2025||13.17 TFLOPS (1:1)|||||||||||20.0||||||4N FinFET|||||||||||||20.0|12.0||||||||80.0|||||
+GeForce RTX 5050 Mobile|/gpu-specs/geforce-rtx-5050-mobile.c4239|GB207|GB207|Blackwell 2.0|TSMC|5 nm|16,900 million|113.4M / mm²|149 mm²||Jun 24th, 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					14 Gbps effective"|8 GB|GDDR6|128 bit|224.0 GB/s|2560.0|80.0|32.0||128 KB (per SM)|32 MB|80.64 GPixel/s|201.6 GTexel/s|12.90 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||201.6 GFLOPS (1:64)|||2235 MHz|2520 MHz|||12.90 TFLOPS (1:1)|||Jun 24th, 2025||||||||20.0||||||4N FinFET|||||||||||||20.0|12.0||||||||80.0|||||
+GeForce RTX 5060|/gpu-specs/geforce-rtx-5060.c4219|GB206|GB206-250-A1|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||May 19th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|12 in our database||"1750 MHz
+										
+					28 Gbps effective"|8 GB|GDDR7|128 bit|448.0 GB/s|3840.0|120.0|48.0||128 KB (per SM)|32 MB|119.9 GPixel/s|299.6 GTexel/s|19.18 TFLOPS|145 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"241 mm
+					9.5 inches"|"111 mm
+					4.4 inches"|300 W|1x 8-pin|PG152 SKU 25|299.6 GFLOPS (1:64)|299 USD|"40 mm
+					1.6 inches"|2280 MHz|2497 MHz|Apr 15th, 2025||19.18 TFLOPS (1:1)|||||||||||30.0||||||4N FinFET|||||||||||||30.0|12.0||||||||120.0|||||
+GeForce RTX 5060 Mobile|/gpu-specs/geforce-rtx-5060-mobile.c4230|GB206|GB206|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||May 20th, 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1500 MHz
+										
+					24 Gbps effective"|8 GB|GDDR7|128 bit|384.0 GB/s|3328.0|104.0|48.0||128 KB (per SM)|32 MB|69.84 GPixel/s|151.3 GTexel/s|9.684 TFLOPS|45 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||151.3 GFLOPS (1:64)|||952 MHz|1455 MHz|Apr 16th, 2025||9.684 TFLOPS (1:1)|||||||||||26.0||||||4N FinFET|||||||||||||26.0|12.0||||||||104.0|||||
+GeForce RTX 5060 Ti 16 GB|/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292|GB206|GB206-300-A1|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||Apr 16th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|41 in our database||"1750 MHz
+										
+					28 Gbps effective"|16 GB|GDDR7|128 bit|448.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|123.5 GPixel/s|370.4 GTexel/s|23.70 TFLOPS|180 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"241 mm
+					9.5 inches"|"111 mm
+					4.4 inches"|450 W|1x 8-pin|PG152 SKU 10|370.4 GFLOPS (1:64)|429 USD|"40 mm
+					1.6 inches"|2407 MHz|2572 MHz|Apr 15th, 2025||23.70 TFLOPS (1:1)|||||||||||36.0||||||4N FinFET|||||||||||||36.0|12.0||||||||144.0|||||
+GeForce RTX 5060 Ti 8 GB|/gpu-specs/geforce-rtx-5060-ti-8-gb.c4246|GB206|GB206-300-A1|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||Apr 16th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|41 in our database||"1750 MHz
+										
+					28 Gbps effective"|8 GB|GDDR7|128 bit|448.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|123.5 GPixel/s|370.4 GTexel/s|23.70 TFLOPS|180 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"241 mm
+					9.5 inches"|"111 mm
+					4.4 inches"|450 W|1x 8-pin|PG152 SKU 10|370.4 GFLOPS (1:64)|379 USD|"40 mm
+					1.6 inches"|2407 MHz|2572 MHz|Apr 15th, 2025||23.70 TFLOPS (1:1)|||||||||||36.0||||||4N FinFET|||||||||||||36.0|12.0||||||||144.0|||||
+GeForce RTX 5070|/gpu-specs/geforce-rtx-5070.c4218|GB205|GB205-300-A1|Blackwell 2.0|TSMC|5 nm|31,100 million|118.3M / mm²|263 mm²||Mar 4th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|41 in our database||"1750 MHz
+										
+					28 Gbps effective"|12 GB|GDDR7|192 bit|672.0 GB/s|6144.0|192.0|80.0||128 KB (per SM)|48 MB|201.0 GPixel/s|482.3 GTexel/s|30.87 TFLOPS|250 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"245 mm
+					9.6 inches"|"115 mm
+					4.5 inches"|600 W|1x 16-pin|PG147 SKU 70|482.3 GFLOPS (1:64)|549 USD|"40 mm
+					1.6 inches"|2325 MHz|2512 MHz|Jan 6th,  2025||30.87 TFLOPS (1:1)|||||||||||48.0||||||4N FinFET|||||||||||||48.0|12.0||||||||192.0|||||
+GeForce RTX 5070 Mobile|/gpu-specs/geforce-rtx-5070-mobile.c4237|GB206|GB206|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||Apr 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1500 MHz
+										
+					24 Gbps effective"|8 GB|GDDR7|128 bit|384.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|68.40 GPixel/s|205.2 GTexel/s|13.13 TFLOPS|50 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||205.2 GFLOPS (1:64)|||907 MHz|1425 MHz|Jan 6th, 2025||13.13 TFLOPS (1:1)|||||||||||36.0||||||4N FinFET|||||||||||||36.0|12.0||||||||144.0|||||
+GeForce RTX 5070 SUPER|/gpu-specs/geforce-rtx-5070-super.c4311|GB205|GB205-400-A1|Blackwell 2.0|TSMC|5 nm|31,100 million|118.3M / mm²|263 mm²||2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|18 GB|GDDR7|192 bit|672.0 GB/s|6400.0|200.0|80.0||128 KB (per SM)|48 MB|201.0 GPixel/s|502.4 GTexel/s|32.15 TFLOPS|275 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"245 mm
+					9.6 inches"|"115 mm
+					4.5 inches"|600 W|1x 16-pin|PG147 SKU 65|502.4 GFLOPS (1:64)||"40 mm
+					1.6 inches"|2325 MHz|2512 MHz|2025||32.15 TFLOPS (1:1)|||||||||||50.0||||||4N FinFET|||||||||||||50.0|12.0||||||||200.0|||||
+GeForce RTX 5070 Ti|/gpu-specs/geforce-rtx-5070-ti.c4243|GB203|GB203-300-A1|Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Feb 20th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|46 in our database||"1750 MHz
+										
+					28 Gbps effective"|16 GB|GDDR7|256 bit|896.0 GB/s|8960.0|280.0|96.0||128 KB (per SM)|48 MB|235.4 GPixel/s|686.6 GTexel/s|43.94 TFLOPS|300 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|700 W|1x 16-pin|PG147 SKU 60|686.6 GFLOPS (1:64)|749 USD|"48 mm
+					1.9 inches"|2295 MHz|2452 MHz|Jan 6th,  2025||43.94 TFLOPS (1:1)|||||||||||70.0||||||4N FinFET|||||||||||||70.0|12.0||||||||280.0|||||
+GeForce RTX 5070 Ti Mobile|/gpu-specs/geforce-rtx-5070-ti-mobile.c4238|GB205|GB205|Blackwell 2.0|TSMC|5 nm|31,100 million|118.3M / mm²|263 mm²||Mar 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|12 GB|GDDR7|192 bit|672.0 GB/s|5888.0|184.0|80.0||128 KB (per SM)|48 MB|115.8 GPixel/s|266.2 GTexel/s|17.04 TFLOPS|60 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||266.2 GFLOPS (1:64)|||847 MHz|1447 MHz|Jan 6th, 2025||17.04 TFLOPS (1:1)|||||||||||46.0||||||4N FinFET|||||||||||||46.0|12.0||||||||184.0|||||
+GeForce RTX 5070 Ti SUPER|/gpu-specs/geforce-rtx-5070-ti-super.c4312|GB203|GB203-350-A1|Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|16 GB|GDDR7|256 bit|896.0 GB/s|8960.0|280.0|96.0||128 KB (per SM)|48 MB|235.4 GPixel/s|686.6 GTexel/s|43.94 TFLOPS|350 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|750 W|1x 16-pin|PG147 SKU 55|686.6 GFLOPS (1:64)|749 USD|"48 mm
+					1.9 inches"|2295 MHz|2452 MHz|2025||43.94 TFLOPS (1:1)|||||||||||70.0||||||4N FinFET|||||||||||||70.0|12.0||||||||280.0|||||
+GeForce RTX 5080|/gpu-specs/geforce-rtx-5080.c4217|GB203|GB203-400-A1|Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Jan 30th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|60 in our database||"1875 MHz
+										
+					30 Gbps effective"|16 GB|GDDR7|256 bit|960.0 GB/s|10752.0|336.0|112.0||128 KB (per SM)|64 MB|293.1 GPixel/s|879.3 GTexel/s|56.28 TFLOPS|360 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|750 W|1x 16-pin|PG147 SKU 45|879.3 GFLOPS (1:64)|999 USD|"40 mm
+					1.6 inches"|2295 MHz|2617 MHz|Jan 6th,  2025||56.28 TFLOPS (1:1)|||||||||||84.0||||||4N FinFET|||||||||||||84.0|12.0||||||||336.0|||||
+GeForce RTX 5080 Mobile|/gpu-specs/geforce-rtx-5080-mobile.c4236|GB203||Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Apr 2nd, 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|16 GB|GDDR7|256 bit|896.0 GB/s|7680.0|240.0|96.0||128 KB (per SM)|64 MB|144.0 GPixel/s|360.0 GTexel/s|23.04 TFLOPS|80 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||360.0 GFLOPS (1:64)|||975 MHz|1500 MHz|Jan 6th, 2025||23.04 TFLOPS (1:1)|||||||||||60.0||||||4N FinFET|||||||||||||60.0|12.0||||||||240.0|||||
+GeForce RTX 5090|/gpu-specs/geforce-rtx-5090.c4216|GB202|GB202-300-A1|Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Jan 30th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|42 in our database||"1750 MHz
+										
+					28 Gbps effective"|32 GB|GDDR7|512 bit|1.79 TB/s|21760.0|680.0|176.0||128 KB (per SM)|96 MB|423.6 GPixel/s|1,636.8 GTexel/s|104.8 TFLOPS|575 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|950 W|1x 16-pin|PG145 SKU 30|1.637 TFLOPS (1:64)|1,999 USD|"40 mm
+					1.6 inches"|2017 MHz|2407 MHz|Jan 6th,  2025||104.8 TFLOPS (1:1)|||||||||||170.0||||||4N FinFET|||||||||||||170.0|12.0||||||||680.0|||||
+GeForce RTX 5090 D|/gpu-specs/geforce-rtx-5090-d.c4253|GB202||Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Jan 30th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x16|42 in our database||"1750 MHz
+										
+					28 Gbps effective"|32 GB|GDDR7|512 bit|1.79 TB/s|21760.0|680.0|176.0||128 KB (per SM)|96 MB|423.6 GPixel/s|1,636.8 GTexel/s|104.8 TFLOPS|575 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|950 W|1x 16-pin|PG145 SKU 30|1.637 TFLOPS (1:64)||"48 mm
+					1.9 inches"|2017 MHz|2407 MHz|Jan 7th, 2025||104.8 TFLOPS (1:1)|||||||||||170.0||||||4N FinFET|||||||||||||170.0|12.0||||||||680.0|||||
+GeForce RTX 5090 Mobile|/gpu-specs/geforce-rtx-5090-mobile.c4235|GB203|GN22-X11-A1|Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Mar 27th, 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|24 GB|GDDR7|256 bit|896.0 GB/s|10496.0|328.0|112.0||128 KB (per SM)|64 MB|169.7 GPixel/s|496.9 GTexel/s|31.80 TFLOPS|95 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||496.9 GFLOPS (1:64)|||990 MHz|1515 MHz|Jan 6th, 2025||31.80 TFLOPS (1:1)|||||||||||82.0||||||4N FinFET|||||||||||||82.0|12.0||||||||328.0|||||
+RTX PRO 4000 Blackwell|/gpu-specs/rtx-pro-4000-blackwell.c4279|GB203||Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Mar 18th, 2025|"Blackwell PRO W
+(x000)"|Workstation Ada||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|24 GB|GDDR7|192 bit|672.0 GB/s|8960.0|280.0|96.0||128 KB (per SM)|48 MB|251.2 GPixel/s|732.8 GTexel/s|46.90 TFLOPS|140 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Single-slot|"241 mm
+					9.5 inches"|"111 mm
+					4.4 inches"|300 W|1x 16-pin||732.8 GFLOPS (1:64)||"20 mm
+					0.8 inches"|1590 MHz|2617 MHz|Mar 17th, 2025||46.90 TFLOPS (1:1)|||||||||||70.0||||||4N FinFET|||||||||||||70.0|12.0||||||||280.0|||||
+RTX PRO 4500 Blackwell|/gpu-specs/rtx-pro-4500-blackwell.c4278|GB203||Blackwell 2.0|TSMC|5 nm|45,600 million|120.6M / mm²|378 mm²||Mar 18th, 2025|"Blackwell PRO W
+(x000)"|Workstation Ada||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|32 GB|GDDR7|256 bit|896.0 GB/s|10496|328|112||128 KB (per SM)|64 MB|293.1 GPixel/s|858.4 GTexel/s|54.94 TFLOPS|200 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|550 W|1x 16-pin||858.4 GFLOPS (1:64)||"40 mm
+					1.6 inches"|1590 MHz|2617 MHz|Mar 17th, 2025||54.94 TFLOPS (1:1)|||||||||||82||||||4N FinFET|||||||||||||82|12.0||||||||328|||||
+RTX PRO 5000 Blackwell|/gpu-specs/rtx-pro-5000-blackwell.c4276|GB202||Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Mar 18th, 2025|"Blackwell PRO W
+(x000)"|Workstation Ada||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|48 GB|GDDR7|384 bit|1.34 TB/s|14080|440|176||128 KB (per SM)|96 MB|460.6 GPixel/s|1,151.5 GTexel/s|73.69 TFLOPS|300 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|700 W|1x 16-pin||1,151.5 GFLOPS (1:64)||"40 mm
+					1.6 inches"|1590 MHz|2617 MHz|Mar 17th, 2025||73.69 TFLOPS (1:1)|||||||||||110||||||4N FinFET|||||||||||||110|12.0||||||||440|||||
+RTX PRO 6000 Blackwell|/gpu-specs/rtx-pro-6000-blackwell.c4272|GB202||Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Mar 18th, 2025|"Blackwell PRO W
+(x000)"|Workstation Ada||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|96 GB|GDDR7|512 bit|1.79 TB/s|24064|752|192||128 KB (per SM)|128 MB|502.5 GPixel/s|1,968.0 GTexel/s|126.0 TFLOPS|600 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"304 mm
+					12 inches"|"137 mm
+					5.4 inches"|1000 W|1x 16-pin|PG153 SKU 52|1.968 TFLOPS (1:64)|8,565 USD|"40 mm
+					1.6 inches"|1590 MHz|2617 MHz|Mar 17th, 2025||126.0 TFLOPS (1:1)|||||||||||188||||||4N FinFET|||||||||||||188|12.0||||||||752|||||
+RTX PRO 6000 Blackwell Max-Q|/gpu-specs/rtx-pro-6000-blackwell-max-q.c4273|GB202||Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Mar 18th, 2025|"Blackwell PRO W
+(x000)"|Workstation Ada||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|96 GB|GDDR7|512 bit|1.79 TB/s|24064|752|192||128 KB (per SM)|128 MB|439.3 GPixel/s|1,720.6 GTexel/s|110.1 TFLOPS|300 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|700 W|1x 16-pin|PG153 SKU 52|1.721 TFLOPS (1:64)|8,565 USD|"40 mm
+					1.6 inches"|1590 MHz|2288 MHz|Mar 17th, 2025||110.1 TFLOPS (1:1)|||||||||||188||||||4N FinFET|||||||||||||188|12.0||||||||752|||||
+RTX PRO 6000 Blackwell Server|/gpu-specs/rtx-pro-6000-blackwell-server.c4274|GB202||Blackwell 2.0|TSMC|5 nm|92,200 million|122.9M / mm²|750 mm²||Mar 18th, 2025|"Server Blackwell
+(Bxx)"|Server Hopper||Active|PCIe 5.0 x16|||"1750 MHz
+										
+					28 Gbps effective"|96 GB|GDDR7|512 bit|1.79 TB/s|24064|752|192||128 KB (per SM)|128 MB|502.5 GPixel/s|1,968.0 GTexel/s|126.0 TFLOPS|600 W|4x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"267 mm
+					10.5 inches"|"111 mm
+					4.4 inches"|1000 W|1x 16-pin|PG153 SKU 52|1.968 TFLOPS (1:64)||"40 mm
+					1.6 inches"|1590 MHz|2617 MHz|Mar 17th, 2025||126.0 TFLOPS (1:1)|||||||||||188||||||4N FinFET|||||||||||||188|12.0||||||||752|||||
+Switch 2 GPU|/gpu-specs/switch-2-gpu.c4313|GA10B||Ampere|Samsung|8 nm|unknown||200 mm²||Jun 5th, 2025|"Console GPU
+(Nintendo)"|||Active||||"800 MHz
+										
+					6.4 Gbps effective"|12 GB|LPDDR5X|128 bit|102.4 GB/s|1536|48|16||128 KB (per SM)|4 MB|22.40 GPixel/s|67.20 GTexel/s|4.301 TFLOPS|40 W|No outputs|12 Ultimate (12_2)|4.6|3.0|1.3|6.8||"272 mm
+					10.7 inches"|"116 mm
+					4.6 inches"||||2.150 TFLOPS (1:2)|449 USD|"14 mm
+					0.6 inches"|561 MHz|1400 MHz|Apr 2nd,  2025||8.602 TFLOPS (2:1)|||||||||||12|||||||||||||||||||12|8.6||||||||48|||||
