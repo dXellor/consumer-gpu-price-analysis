@@ -1,0 +1,14 @@
+GPU Name, Speedup
+LambdaCloud 1x GH200 96GB, 5.93
+LambdaCloud 1x H100 80GB SXM5, 5.69
+LambdaCloud 1x H100 80GB PCIe, 3.81
+A100 80GB SXM4, 3.13
+A100 80GB PCIe, 2.99
+LambdaCloud 1x A100 40GB PCIe, 2.42
+RTX 4090, 2.06
+RTX 6000 Ada, 2.02
+RTX A6000, 1.49
+RTX 3090, 1.3
+LambdaCloud 1x V100 16GB, 1
+LambdaCloud 1x A10, 0.98
+Quadro RTX 8000, 0.96
