@@ -17,16 +17,8 @@ def load_crypto_prices(crypto_name: str) -> pd.DataFrame:
     return df
 
 def load_gpu_details() -> pd.DataFrame:
-    relevant_columns = [
-    "Product Name", "Architecture", "Release Date",
-    "Base Clock", "Boost Clock",
-    "Memory Clock", "Memory Size", "Memory Type", "Memory Bus", "Bandwidth",
-    "TDP", "L1 Cache", "L2 Cache",
-    "Shading Units", "CUDA", "FP32 (float)", "Tensor Cores", "BF16", "TF32"]
-    
     init_df = clean_gpu_details_csv(f"{DATA_DIR}/gpu-details.csv")
-
-    return init_df[relevant_columns]
+    return init_df
     
 
 def load_gpu_ai_specs() -> pd.DataFrame:
@@ -35,4 +27,5 @@ def load_gpu_ai_specs() -> pd.DataFrame:
 #mining-gpus-...
 def load_mining_data(crypto_file_name: str) -> pd.DataFrame:
     init_df = clean_mining_csv(f"{DATA_DIR}/mining-gpus-{crypto_file_name}.csv")
+    init_df.to_csv(f"mining-{crypto_file_name}_final.csv", index=False)
     return init_df[['Model', 'Release Date', 'Hashrate']]

@@ -30,7 +30,7 @@ def main():
         'missing_percent': missing_percentage
     }).sort_values(by='missing_count', ascending=False)
 
-    print(missing_stats)
+    #print(missing_stats)
     gpu_all.to_csv("gpu_merged_final.csv", index=False)
 
 if __name__ == "__main__":
