@@ -27,5 +27,4 @@ def load_gpu_ai_specs() -> pd.DataFrame:
 #mining-gpus-...
 def load_mining_data(crypto_file_name: str) -> pd.DataFrame:
     init_df = clean_mining_csv(f"{DATA_DIR}/mining-gpus-{crypto_file_name}.csv")
-    init_df.to_csv(f"mining-{crypto_file_name}_final.csv", index=False)
     return init_df[['Model', 'Release Date', 'Hashrate']]

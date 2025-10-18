@@ -46,6 +46,35 @@ def impute_speedup(df: pd.DataFrame):
     return df
 
 
+def get_ai_cores(row):
+
+    model = str(row.get("Model", "")).lower()
+
+    if any(keyword in model for keyword in ["nvidia", "geforce", "gtx", "rtx"]):
+        cores = row.get("Tensor Cores", 0)
+        return 0 if pd.isna(cores) else cores
+    
+    elif any(keyword in model for keyword in ["amd", "radeon"]):
+        cores = row.get("Matrix Cores", 0)
+        return 0 if pd.isna(cores) else cores
+    
+    return None
+
+def _set_tensor(row):
+        nvidia_keywords = ["geforce", "gtx", "rtx", "nvidia"]
+        amd_keywords = ['amd', 'radeon']
+        if pd.isna(row["Tensor Cores"]):
+            name_lower = str(row["Model"]).lower()
+            if any(kw in name_lower for kw in nvidia_keywords):
+                return 0    
+        return row["Tensor Cores"]
+
+
+def impute_gpu_for_mining_data(df: pd.DataFrame) -> pd.DataFrame:
+    df["AI Cores"] = df.apply(get_ai_cores, axis=1)
+    return df
+
+
 def impute_speedup(df: pd.DataFrame):
     relevant_columns = [
     "Product Name", "Architecture", "Release Date",
