@@ -7629,7 +7629,7 @@ GeForce GTX 1630|/gpu-specs/geforce-gtx-1630.c3916|TU117|TU117-150-KA-A1|Turing|
 					5.7 inches"|"69 mm
 					2.7 inches"|250 W||PG174 SKU 0|57.12 GFLOPS (1:32)||"18 mm
 					0.7 inches"|1740 MHz|1785 MHz|||3.656 TFLOPS (2:1)||||||||||||||||||||||||||||||8.0|7.5|||||||||||||
-GeForce RTX 3050 4 GB|/gpu-specs/geforce-rtx-3050-4-gb.c3744|GA107|GA107-140-A1|Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Jan 27th, 2022|GeForce 30|GeForce 20|GeForce 40|Active|PCIe 4.0 x8|||"1500 MHz
+GeForce RTX 3050|/gpu-specs/geforce-rtx-3050-4-gb.c3744|GA107|GA107-140-A1|Ampere|Samsung|8 nm|8,700 million|43.5M / mm²|200 mm²|FCBGA-1358|Jan 27th, 2022|GeForce 30|GeForce 20|GeForce 40|Active|PCIe 4.0 x8|||"1500 MHz
 										
 					12 Gbps effective"|4 GB|GDDR6|128 bit|192.0 GB/s|2048.0|64.0|32.0||128 KB (per SM)|2 MB|55.68 GPixel/s|111.4 GTexel/s|7.127 TFLOPS|90 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"242 mm
 					9.5 inches"|"112 mm
@@ -7662,7 +7662,7 @@ GeForce RTX 3050 OEM|/gpu-specs/geforce-rtx-3050-oem.c3915|GA106|GA106-150-KA-A1
 					14 Gbps effective"|8 GB|GDDR6|128 bit|224.0 GB/s|2304.0|72.0|32.0||128 KB (per SM)|2 MB|56.16 GPixel/s|126.4 GTexel/s|8.087 TFLOPS|130 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"242 mm
 					9.5 inches"|"112 mm
 					4.4 inches"|300 W|1x 8-pin||126.4 GFLOPS (1:64)|||1515 MHz|1755 MHz|||8.087 TFLOPS (1:1)|||Jan 27th, 2022||||||||18.0|||||||||||||||||||18.0|8.6||||||||72.0|||||
-GeForce RTX 3060 8 GB|/gpu-specs/geforce-rtx-3060-8-gb.c3937|GA106|GA106-302-A1|Ampere|Samsung|8 nm|12,000 million|43.5M / mm²|276 mm²|BGA-2713|Oct 12th, 2022|GeForce 30|GeForce 20|GeForce 40|Active|PCIe 4.0 x16|61 in our database||"1875 MHz
+GeForce RTX 3060|/gpu-specs/geforce-rtx-3060-8-gb.c3937|GA106|GA106-302-A1|Ampere|Samsung|8 nm|12,000 million|43.5M / mm²|276 mm²|BGA-2713|Oct 12th, 2022|GeForce 30|GeForce 20|GeForce 40|Active|PCIe 4.0 x16|61 in our database||"1875 MHz
 										
 					15 Gbps effective"|8 GB|GDDR6|128 bit|240.0 GB/s|3584.0|112.0|48.0||128 KB (per SM)|3 MB|85.30 GPixel/s|199.0 GTexel/s|12.74 TFLOPS|170 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"242 mm
 					9.5 inches"|"112 mm
@@ -7872,7 +7872,7 @@ GeForce RTX 4060 Max-Q|/gpu-specs/geforce-rtx-4060-max-q.c3986|AD107|GN21-X4|Ada
 GeForce RTX 4060 Mobile|/gpu-specs/geforce-rtx-4060-mobile.c3946|AD107|GN21-X4|Ada Lovelace|TSMC|5 nm|18,900 million|118.9M / mm²|159 mm²||Jan 3rd, 2023|GeForce 40 Mobile|GeForce 30 Mobile|GeForce 50 Mobile|Active|PCIe 4.0 x8|||"2000 MHz
 										
 					16 Gbps effective"|8 GB|GDDR6|128 bit|256.0 GB/s|3072.0|96.0|48.0||128 KB (per SM)|32 MB|90.72 GPixel/s|181.4 GTexel/s|11.61 TFLOPS|115 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|IGP||||||181.4 GFLOPS (1:64)|||1545 MHz|1890 MHz|||11.61 TFLOPS (1:1)|||Unknown||||||||24.0|||||||||||||||||||24.0|8.9||||||||96.0|||||
-GeForce RTX 4060 Ti 16 GB|/gpu-specs/geforce-rtx-4060-ti-16-gb.c4155|AD106|AD106-351-A1|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||May 18th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
+GeForce RTX 4060 Ti|/gpu-specs/geforce-rtx-4060-ti-16-gb.c4155|AD106|AD106-351-A1|Ada Lovelace|TSMC|5 nm|22,900 million|121.8M / mm²|188 mm²||May 18th, 2023|GeForce 40|GeForce 30|GeForce 50|Active|PCIe 4.0 x8|||"2250 MHz
 										
 					18 Gbps effective"|16 GB|GDDR6|128 bit|288.0 GB/s|4352.0|136.0|48.0||128 KB (per SM)|32 MB|121.7 GPixel/s|344.8 GTexel/s|22.06 TFLOPS|165 W|1x HDMI 2.13x DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"240 mm
 					9.4 inches"|"111 mm
@@ -8231,7 +8231,7 @@ GeForce RTX 5060|/gpu-specs/geforce-rtx-5060.c4219|GB206|GB206-250-A1|Blackwell 
 GeForce RTX 5060 Mobile|/gpu-specs/geforce-rtx-5060-mobile.c4230|GB206|GB206|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||May 20th, 2025|GeForce 50 Mobile|GeForce 40 Mobile||Active|PCIe 5.0 x16|||"1500 MHz
 										
 					24 Gbps effective"|8 GB|GDDR7|128 bit|384.0 GB/s|3328.0|104.0|48.0||128 KB (per SM)|32 MB|69.84 GPixel/s|151.3 GTexel/s|9.684 TFLOPS|45 W|Portable Device Dependent|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|IGP||||||151.3 GFLOPS (1:64)|||952 MHz|1455 MHz|Apr 16th, 2025||9.684 TFLOPS (1:1)|||||||||||26.0||||||4N FinFET|||||||||||||26.0|12.0||||||||104.0|||||
-GeForce RTX 5060 Ti 16 GB|/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292|GB206|GB206-300-A1|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||Apr 16th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|41 in our database||"1750 MHz
+GeForce RTX 5060 Ti|/gpu-specs/geforce-rtx-5060-ti-16-gb.c4292|GB206|GB206-300-A1|Blackwell 2.0|TSMC|5 nm|21,900 million|121.0M / mm²|181 mm²||Apr 16th, 2025|GeForce 50|GeForce 40||Active|PCIe 5.0 x8|41 in our database||"1750 MHz
 										
 					28 Gbps effective"|16 GB|GDDR7|128 bit|448.0 GB/s|4608.0|144.0|48.0||128 KB (per SM)|32 MB|123.5 GPixel/s|370.4 GTexel/s|23.70 TFLOPS|180 W|1x HDMI 2.1b3x DisplayPort 2.1b|12 Ultimate (12_2)|4.6|3.0|1.4|6.8|Dual-slot|"241 mm
 					9.5 inches"|"111 mm

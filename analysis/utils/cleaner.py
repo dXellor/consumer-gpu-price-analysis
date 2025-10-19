@@ -12,6 +12,16 @@ def to_num(x):
     except:
         return None
 
+
+def clean_currency(value):
+    if pd.isna(value):
+        return None
+    cleaned = re.sub(r'[^0-9\.\-]', '', str(value))
+    try:
+        return float(cleaned)
+    except ValueError:
+        return None
+
 def clean_mining_csv(file_path: str) -> pd.DataFrame:
     with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
         raw = f.read()
@@ -24,7 +34,10 @@ def clean_mining_csv(file_path: str) -> pd.DataFrame:
     for col in df.columns:
         df[col] = df[col].astype(str).str.strip()
 
-
+    df['Model'] = df['Model'].apply(clean_gpu_name)
+    df = df.drop_duplicates(subset=["Model"], keep="first")
+    print(len(df['Model']))
+    
     df['Hashrate'] = df['Hashrate'].str.replace(
         r'(\d+(?:\.\d+)?)\s*[kK]\s*h/s',
         lambda m: str(float(m.group(1)) * 1000) + ' h/s',
@@ -40,8 +53,9 @@ def clean_mining_csv(file_path: str) -> pd.DataFrame:
     df['Hashrate'] = df['Hashrate'].str.replace('h/s', '', regex=False).str.strip()
     df['Hashrate'] = df['Hashrate'].str.split().str[0]
     df['Hashrate'] = df['Hashrate'].apply(to_num)
+    df['Revenue 24h'] = df['Revenue 24h'].apply(clean_currency)
 
-    return df[['Model', 'Release Date', 'Hashrate']]
+    return df[['Model', 'Release Date', 'Hashrate', 'Revenue 24h']]
 
 
 def extract_number(value):
@@ -87,7 +101,7 @@ def clean_gpu_details_csv(file_path: str) -> pd.DataFrame:
     raw_fixed = re.sub(r'[ \t]+', ' ', raw_fixed)
     df = pd.read_csv(StringIO(raw_fixed), sep='|')
     df = df[relevant_columns]
-    df['Product Name'] = df['Product Name'].str.strip()
+    df['Product Name'] = df['Product Name'].apply(clean_gpu_name)
     df['Release Date'] = df['Release Date'].apply(format_date)
     df['Base Clock'] = df['Base Clock'].apply(extract_number)
     df['Boost Clock'] = df['Boost Clock'].apply(extract_number)
@@ -130,5 +144,7 @@ def clean_gpu_name(name: str) -> str:
     name = re.sub(pattern, '', name)
     name = re.sub(r'[^a-z0-9 ]', ' ', name)
     name = re.sub(r'\s+', ' ', name).strip()
-    
+    name = re.sub(r"\s*\([^)]*\)", "", name).strip()
+    name = re.sub(r"\b(LHR|FULL\s*UNLOCK|ENGINEERING SAMPLE)\b", "", name, flags=re.IGNORECASE)
+    name = name.strip()
     return name
