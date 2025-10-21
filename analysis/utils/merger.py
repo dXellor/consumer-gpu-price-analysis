@@ -22,10 +22,8 @@ def fuzzy_merge(df_mining: pd.DataFrame, df_gpu: pd.DataFrame, threshold=85) -> 
         if best_match:
             _, score, index = best_match
             if score >= threshold:
-                df_gpu.at[index, 'Hashrate'] = mining_row['Hashrate']
                 df_gpu.at[index, 'Revenue 24h'] = mining_row['Revenue 24h']
                 #print(df_gpu.info())
-    df_gpu['Hashrate'] = pd.to_numeric(df_gpu['Hashrate'], errors='coerce')
     df_gpu['Revenue 24h'] = pd.to_numeric(df_gpu['Revenue 24h'], errors='coerce')
     return df_gpu
 

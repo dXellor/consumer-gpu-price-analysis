@@ -31,13 +31,9 @@ def clean_mining_csv(file_path: str) -> pd.DataFrame:
         regex=True
     )
 
-    df['Hashrate'] = df['Hashrate'].str.replace('h/s', '', regex=False).str.strip()
-    df['Hashrate'] = df['Hashrate'].str.split().str[0]
-    df['Hashrate'] = df['Hashrate'].apply(helpers.to_num)
-
     df['Revenue 24h'] = df['Revenue 24h'].apply(helpers.clean_currency)
 
-    return df[['Model', 'Release Date', 'Hashrate', 'Revenue 24h']]
+    return df[['Model', 'Hashrate', 'Revenue 24h']]
 
         
 def clean_gpu_details_csv(file_path: str) -> pd.DataFrame:
