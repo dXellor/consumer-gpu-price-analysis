@@ -2677,7 +2677,7 @@ Radeon RX 470|/gpu-specs/radeon-rx-470.c2861|Ellesmere|"Polaris 10 PRO
 					9.4 inches"|"95 mm
 					3.7 inches"|300 W|1x 6-pin|C940, 109-D00947-00_02|308.7 GFLOPS (1:16)|179 USD|"35 mm
 					1.4 inches"|926 MHz|1206 MHz|||4.940 TFLOPS (1:1)||||||||||||||||||||||||||||||||||||||||||||
-Radeon RX 470 Mobile|/gpu-specs/radeon-rx-470-mobile.c3070|Ellesmere|Ellesmere PRO|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Aug 4th, 2016|"Polaris Mobile
+Radeon RX 470 8 GB|/gpu-specs/radeon-rx-470-mobile.c3070|Ellesmere|Ellesmere PRO|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Aug 4th, 2016|"Polaris Mobile
 (RX M400)"|Gem System|Navi Mobile|Active|MXM-B (3.0)|||"1750 MHz
 										
 					7 Gbps effective"|8 GB|GDDR5|256 bit|224.0 GB/s|2048.0|128.0|32.0|32.0|16 KB (per CU)|2 MB|34.37 GPixel/s|137.5 GTexel/s|4.399 TFLOPS|85 W|Portable Device Dependent|12 (12_0)|4.6|2.1|1.3|6.7|MXM Module||||||274.9 GFLOPS (1:16)|||926 MHz|1074 MHz|||4.399 TFLOPS (1:1)||||||||||||||||||||||||||||||||||||||||||||
@@ -2686,7 +2686,7 @@ Radeon RX 470D|/gpu-specs/radeon-rx-470d.c2896|Ellesmere|Polaris 10 PROD|GCN 4.0
 										
 					6.6 Gbps effective"|4 GB|GDDR5|256 bit|211.2 GB/s|1792.0|112.0|32.0|28.0|16 KB (per CU)|2 MB|38.59 GPixel/s|135.1 GTexel/s|4.322 TFLOPS|120 W|1x HDMI 2.0b3x DisplayPort 1.4a|12 (12_0)|4.6|2.1|1.3|6.7|Dual-slot|"241 mm
 					9.5 inches"||300 W|1x 6-pin|D000|270.1 GFLOPS (1:16)|||926 MHz|1206 MHz|||4.322 TFLOPS (1:1)||||||||||||||||||||||||||||||||||||||||||||
-Radeon RX 480|/gpu-specs/radeon-rx-480.c2848|Ellesmere|"Polaris 10 XT
+Radeon RX 480 8 GB|/gpu-specs/radeon-rx-480.c2848|Ellesmere|"Polaris 10 XT
 										
 (215-0876184)"|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Jun 29th, 2016|"Arctic Islands
 (RX 400)"|Pirate Islands|Polaris|Active|PCIe 3.0 x16|86 in our database||"2000 MHz
@@ -2999,11 +2999,11 @@ Radeon RX 570|/gpu-specs/radeon-rx-570.c2939|Polaris 20|"Polaris 20 XL
 					9.5 inches"||450 W|1x 6-pin|C940, D000|318.5 GFLOPS (1:16)|169 USD||1168 MHz|1244 MHz|||5.095 TFLOPS (1:1)|||||"Amazon
 						/
 						Newegg"|||||||||||||||||||||||||||||||||||||||
-Radeon RX 570 Mobile|/gpu-specs/radeon-rx-570-mobile.c3068|Ellesmere|Ellesmere PRO|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Dec 10th, 2017|"Polaris Mobile
+Radeon RX 570 8 GB|/gpu-specs/radeon-rx-570-mobile.c3068|Ellesmere|Ellesmere PRO|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Dec 10th, 2017|"Polaris Mobile
 (RX M500)"|Gem System|Navi Mobile|Active|MXM-B (3.0)|||"1650 MHz
 										
 					6.6 Gbps effective"|8 GB|GDDR5|256 bit|211.2 GB/s|2048.0|128.0|32.0|32.0|16 KB (per CU)|2 MB|38.59 GPixel/s|154.4 GTexel/s|4.940 TFLOPS|85 W|Portable Device Dependent|12 (12_0)|4.6|2.1|1.3|6.7|MXM Module||||||308.7 GFLOPS (1:16)|||926 MHz|1206 MHz|||4.940 TFLOPS (1:1)||||||||||||||||||||||||||||||||||||||||||||
-Radeon RX 580|/gpu-specs/radeon-rx-580.c2938|Polaris 20|"Polaris 20 XTX
+Radeon RX 580 8 GB|/gpu-specs/radeon-rx-580.c2938|Polaris 20|"Polaris 20 XTX
 										
 (215-0910038)"|GCN 4.0|GlobalFoundries|14 nm|5,700 million|24.6M / mm²|232 mm²|BGA-1401|Apr 18th, 2017|"Polaris
 (RX 500)"|Arctic Islands|Vega|Active|PCIe 3.0 x16|52 in our database||"2000 MHz
@@ -7473,7 +7473,7 @@ Quadro T1200 Mobile|/gpu-specs/quadro-t1200-mobile.c3803|TU117||Turing|TSMC|12 n
 (Tx000)"|Quadro Pascal-M|Ampere-MW|Active|PCIe 3.0 x16|||"1500 MHz
 										
 					12 Gbps effective"|4 GB|GDDR6|128 bit|192.0 GB/s|1024.0|64.0|32.0||64 KB (per SM)|1024 KB|57.12 GPixel/s|114.2 GTexel/s|3.656 TFLOPS|18 W|Portable Device Dependent|12 (12_1)|4.6|3.0|1.3|6.8|IGP|||||E3906 SKU 10|114.2 GFLOPS (1:32)|||1515 MHz|1785 MHz|||7.311 TFLOPS (2:1)||||||||||||||||||||||||||||||16.0|7.5|||||||||||||
-RTX A2000|/gpu-specs/rtx-a2000.c3820|GA106|GA106-850-A1|Ampere|Samsung|8 nm|12,000 million|43.5M / mm²|276 mm²|BGA-2713|Aug 10th, 2021|"Workstation Ampere
+RTX A2000 6 GB|/gpu-specs/rtx-a2000.c3820|GA106|GA106-850-A1|Ampere|Samsung|8 nm|12,000 million|43.5M / mm²|276 mm²|BGA-2713|Aug 10th, 2021|"Workstation Ampere
 (Ax000)"|Quadro Turing|Workstation Ada|Active|PCIe 4.0 x16|1 in our database||"1500 MHz
 										
 					12 Gbps effective"|6 GB|GDDR6|192 bit|288.0 GB/s|3328.0|104.0|48.0||128 KB (per SM)|3 MB|57.60 GPixel/s|124.8 GTexel/s|7.987 TFLOPS|70 W|4x mini-DisplayPort 1.4a|12 Ultimate (12_2)|4.6|3.0|1.3|6.8|Dual-slot|"167 mm
