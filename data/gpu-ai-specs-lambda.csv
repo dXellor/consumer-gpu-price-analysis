@@ -1,4 +1,4 @@
-GPU Name, Speedup
+GPU Name,Speedup
 LambdaCloud 1x GH200 96GB, 5.93
 LambdaCloud 1x H100 80GB SXM5, 5.69
 LambdaCloud 1x H100 80GB PCIe, 3.81
